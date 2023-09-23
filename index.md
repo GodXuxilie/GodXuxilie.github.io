@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="/images/me.png" class="floatpic" width="360" height="480">
 
@@ -27,10 +27,11 @@ I am a third-year PhD student at National University of Singapore supervised by 
 ## Research Interests
 
 I am broadly interested in adversarial machine learning and its applications.  <br/>
-**Research Work**: Currently, I am working on the following three parts:
+**Research Work**: Currently, I am working on the following three parts (\* refers to equal contributions.):
 
-- Improving supervised adversarial learning where label information is required.
-  - [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+(1) Improving supervised adversarial learning where label information is required. <br/>
+  - NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels (TMLR 2022) [paper](https://openreview.net/pdf?id=zlQXV7xtZs) [code](https://github.com/zjfheart/NoiLIn) <br>Jingfeng Zhang*, **Xilie Xu\***, Bo Han, Tongliang Liu, Lizhen Cui, Gang Niu, Masashi Sugiyama
+  - 
 - Towards effective and efficient self-supervised adversarial learning without requiring annotations.
 - Robustifying AI-powered tools such as non-parametric two-sample tests.
 
