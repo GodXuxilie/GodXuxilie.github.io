@@ -1,35 +1,32 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: Research Work
 ---
 
-Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+**Research Work**: Currently, I am working on the following three parts (\* refers to equal contributions.):
 
-## Conference Paper
+(1) Towards trustworthy foundation models. <br/>
+- Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (NeurIPS'23) [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]()
+<br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+- Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (NeurIPS'23, Spotlight) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]()
+<br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
+(2) Evaluating robustness of AI-powered applications including non-parametric two-sample tests, large language models (LLMs), diffusion models. <br/>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- Adversarial Attack and Defense for Non-Parametric Two-Sample Tests (ICML 2022) [[paper]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[code]](https://github.com/GodXuxilie/Robust-TST)
+<br/> **Xilie Xu\***, Jingfeng Zhang*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
-  <br>
+(3) Enhancing standard adversarial learning. <br/>
 
-## Working Manuscript
+- NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels (TMLR 2022) [[paper]](https://openreview.net/pdf?id=zlQXV7xtZs) [[code]](https://github.com/zjfheart/NoiLIn) <br> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Tongliang Liu, Lizhen Cui, Gang Niu, Masashi Sugiyama
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
+- Decision Boundary-aware Data Augmentation for Adversarial Training (TDSC 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9754227)
+<br/> Chen Chen\*, Jingfeng Zhang\*, **Xilie Xu**, Lingjuan Lyu, Chaochao Chen, Tianlei Hu, Gang Chen
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (ICML 2020) [[paper]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[code]](https://github.com/zjfheart/Friendly-Adversarial-Training)
+<br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli
 
-  <br>
 
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to publish a research paper to Internet of Things Journal (IoTJ 2024)
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
-
-  <br>
+<br>
