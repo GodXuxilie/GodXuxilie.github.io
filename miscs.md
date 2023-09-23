@@ -4,7 +4,7 @@ permalink: /miscs/index.html
 title: Misc
 ---
 
-## Internship Experience
+## Internship
 - Research intern mentored by Dr. Lingjuan Lyu.
 <br/> Department of Ant Group-CRO Line-Security and Risk Management, Jun.-Jul., 2021.
 
