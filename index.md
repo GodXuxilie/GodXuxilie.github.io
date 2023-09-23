@@ -29,11 +29,22 @@ I am a third-year PhD student at National University of Singapore supervised by 
 I am broadly interested in adversarial machine learning and its applications.  <br/>
 **Research Work**: Currently, I am working on the following three parts (\* refers to equal contributions.):
 
-(1) Improving supervised adversarial learning where label information is required. <br/>
-  - NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels (TMLR 2022) [paper](https://openreview.net/pdf?id=zlQXV7xtZs) [code](https://github.com/zjfheart/NoiLIn) <br>Jingfeng Zhang*, **Xilie Xu\***, Bo Han, Tongliang Liu, Lizhen Cui, Gang Niu, Masashi Sugiyama
-  - 
-- Towards effective and efficient self-supervised adversarial learning without requiring annotations.
-- Robustifying AI-powered tools such as non-parametric two-sample tests.
+(1) Towards trustworthy foundation models. <br/>
+
+(2) Evaluating robustness of AI-powered applications including non-parametric two-sample tests, large language models (LLMs), diffusion models. <br/>
+
+(3) Enhancing standard adversarial learning. <br/>
+
+- NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels (TMLR 2022) [paper](https://openreview.net/pdf?id=zlQXV7xtZs) [code](https://github.com/zjfheart/NoiLIn) <br> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Tongliang Liu, Lizhen Cui, Gang Niu, Masashi Sugiyama
+
+- Decision Boundary-aware Data Augmentation for Adversarial Training (TDSC 2022) [paper]() <br/> Chen Chen\*, Jingfeng Zhang\*, **Xilie Xu**, Lingjuan Lyu, Chaochao Chen, Tianlei Hu, Gang Chen
+
+- Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (ICML 2020) [paper]() [code]() <br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli
+  
+
+
+
+
 
 <br>
 
