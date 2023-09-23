@@ -21,7 +21,7 @@ I am a third-year PhD student at [National University of Singapore](https://www.
 
 ---
 
-## News and Updates
+## News
 
 - **Sep 2023：** Two papers regarding efficient and effective robust pre-training are accpted by NeurIPS'23!
 - **Sep 2023：** Invited as a reviewer for ICLR'24.

@@ -6,19 +6,17 @@ title: Research Work
 
 [[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html) <br/>
 Currently, I am working on the following three parts (\* refers to equal contributions.): <br/>
-(1) **Towards trustworthy foundation models**. <br/>
+**(1) Towards trustworthy foundation models**.
 - Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (*NeurIPS'23*) [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]()
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
-- Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS'23, **Spotlight***) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]()
+- Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS'23,* ***Spotlight***) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]()
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
-(2) **Evaluating robustness of AI-powered applications including non-parametric two-sample tests, large language models (LLMs), diffusion models.**
-
+**(2) Evaluating robustness of AI-powered applications including non-parametric two-sample tests, large language models (LLMs), and diffusion models.**
 - Adversarial Attack and Defense for Non-Parametric Two-Sample Tests (ICML 2022) [[paper]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[code]](https://github.com/GodXuxilie/Robust-TST)
 <br/> **Xilie Xu\***, Jingfeng Zhang*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
-(3) **Enhancing standard adversarial training.** 
-
+**(3) Enhancing standard adversarial training.** 
 - NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels (*TMLR 2022*) [[paper]](https://openreview.net/pdf?id=zlQXV7xtZs) [[code]](https://github.com/zjfheart/NoiLIn) <br> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Tongliang Liu, Lizhen Cui, Gang Niu, Masashi Sugiyama
 - Decision Boundary-aware Data Augmentation for Adversarial Training (*TDSC 2022*) [[paper]](https://ieeexplore.ieee.org/abstract/document/9754227)
 <br/> Chen Chen\*, Jingfeng Zhang\*, **Xilie Xu**, Lingjuan Lyu, Chaochao Chen, Tianlei Hu, Gang Chen
