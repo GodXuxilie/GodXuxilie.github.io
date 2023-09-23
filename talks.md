@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/index.html
-title: Talks
+title: Talk
 ---
 
 ## Invited Talk
