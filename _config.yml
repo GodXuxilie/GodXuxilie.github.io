@@ -38,10 +38,12 @@ links:
     url: /file/CV_xuxilie.pdf
   - title: Research Work
     url: /publications/
-  # - title: Awards
-    # url: /awards/
-  # - title: Talk
-  #   url: /talks/
+  - title: Service
+    url: /awards/
+  - title: Talks
+    url: /talks/
+  - title: Misc
+    url: /miscs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Singapore

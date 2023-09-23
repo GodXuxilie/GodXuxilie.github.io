@@ -29,7 +29,7 @@ I am a third-year PhD student at National University of Singapore supervised by 
 
 - **Sep 2023：** Two papers regarding efficient and effective robust pre-training are accpted by NeurIPS'23!
 - **Sep 2023：** Invited as a reviewer for ICLR'24.
-- **Aug 2023：** 
+- **Aug 2023：** Give a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23 conference, Shanghai, China.
 
 <br>
 ---
