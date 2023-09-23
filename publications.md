@@ -4,7 +4,8 @@ permalink: /publications/index.html
 title: Research Work
 ---
 
-[[Google scholar]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[DBLP]](https://dblp.org/pid/259/2327.html)
+[[Google scholar]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[DBLP]](https://dblp.org/pid/259/2327.html) <br/>
+
 
 Currently, I am working on the following three parts (\* refers to equal contributions.):
 
