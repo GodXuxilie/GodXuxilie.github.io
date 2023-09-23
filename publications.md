@@ -8,7 +8,7 @@ title: Research Work
 My research works lie in the following three categories (\* refers to equal contributions.): <br/>
 **(1) Towards developing adversarially robust foundation models.**
 - Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (*NeurIPS 2023*) [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]() <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
-- Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS 2023*, ***Spotlight***) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]() <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
+- Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS 2023*, **Spotlight**) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]() <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models).**
 - Adversarial Attack and Defense for Non-Parametric Two-Sample Tests (*ICML 2022*) [[paper]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[code]](https://github.com/GodXuxilie/Robust-TST) <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
