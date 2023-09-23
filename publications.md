@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Research Work
 ---
 
-[[Google scholar]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[DBLP]](https://dblp.org/pid/259/2327.html) <br/>
+[[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html) <br/>
 Currently, I am working on the following three parts (\* refers to equal contributions.): <br/>
 (1) **Towards trustworthy foundation models**. <br/>
 - Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (*NeurIPS'23*) [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]()
