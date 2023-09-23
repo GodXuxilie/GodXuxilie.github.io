@@ -12,7 +12,7 @@ Currently, I am working on the following three parts (\* refers to equal contrib
 - Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS'23,* ***Spotlight***) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]()
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
-**(2) Evaluating robustness of AI-powered applications including non-parametric two-sample tests, large language models (LLMs), and diffusion models.**
+**(2) Evaluating robustness of AI-powered applications including statistical tools, large language models (LLMs), and diffusion models.**
 - Adversarial Attack and Defense for Non-Parametric Two-Sample Tests (ICML 2022) [[paper]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[code]](https://github.com/GodXuxilie/Robust-TST)
 <br/> **Xilie Xu\***, Jingfeng Zhang*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
