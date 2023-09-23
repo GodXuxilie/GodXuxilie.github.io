@@ -26,7 +26,7 @@ I am a third-year PhD student at National University of Singapore supervised by 
 
 ## Research Interests
 
-Research Interest: I am broadly interested in adversarial machine learning and its applications. Currently, I am working on the following three parts: 
+I am broadly interested in adversarial machine learning and its applications. Currently, I am working on the following three parts: 
 
 - Improving supervised adversarial learning where label information is required.
 - Towards effective and efficient self-supervised adversarial learning without requiring annotations.
