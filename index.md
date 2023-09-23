@@ -9,13 +9,6 @@ I am a third-year PhD student at [National University of Singapore](https://www.
 
 <br>
 
-<!-- ## Academic Background -->
-<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
-<!-- - **Sep 2017 - June 2021:** Honored Taishan College, Shandong University (BEng) -->
-<!-- - **Aug 2021 - Present:** School of Computing National University of Singapore (PhD Candidate) -->
-<!-- <br> -->
-
-
 ---
 
 ## News
