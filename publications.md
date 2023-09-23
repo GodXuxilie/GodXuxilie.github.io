@@ -9,7 +9,7 @@ My research works lie in the following three categories (\* refers to equal cont
 **(1) Towards developing adversarially robust foundation models.**
 - Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (*NeurIPS'23*) [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]()
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
-- Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS'23*, <strong><em>Spotlight</em></strong>) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]()
+- Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS'23*, <strong>Spotlight</strong>) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]()
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models).**
