@@ -5,7 +5,7 @@ title: Research Work
 ---
 
 [[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html) <br/>
-My research works lie in the following three categories (\* refers to equal contributions.): <br/>
+My research works lie in the following three categories (\* refers to equal contributions): <br/>
 **(1) Towards developing adversarially robust foundation models.**
 - Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (*NeurIPS 2023*) [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]() <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
 - Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection (*NeurIPS 2023*, **Spotlight**) [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]() <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
