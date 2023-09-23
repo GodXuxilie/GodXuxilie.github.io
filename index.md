@@ -26,7 +26,7 @@ I am a third-year PhD student at [National University of Singapore](https://www.
 <br>
 ---
 
-## Research Interests
+## Research Interest
 I am broadly interested in **adversarial machine learning** and its applications. My current research interests focus on developing adversarially robust foundation models, as well as evaluating and enhancing the adversarial robustness of AI-powered applications (e.g., statistical models, LLMs, diffusion models, CLIP). <br/>
 
 <br>

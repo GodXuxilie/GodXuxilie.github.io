@@ -34,8 +34,6 @@ google_verify: ""
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV_xuxilie.pdf
   - title: Research Work
     url: /publications/
   - title: Service
@@ -44,6 +42,8 @@ links:
     url: /talks/
   - title: Misc
     url: /miscs/
+  - title: Resume
+    url: /file/CV_xuxilie.pdf
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
