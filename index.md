@@ -26,9 +26,11 @@ I am a third-year PhD student at National University of Singapore supervised by 
 
 ## Research Interests
 
-I am broadly interested in adversarial machine learning and its applications. Currently, I am working on the following three parts: 
+I am broadly interested in adversarial machine learning and its applications.  <br/>
+**Research Work**: Currently, I am working on the following three parts:
 
 - Improving supervised adversarial learning where label information is required.
+  - [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
 - Towards effective and efficient self-supervised adversarial learning without requiring annotations.
 - Robustifying AI-powered tools such as non-parametric two-sample tests.
 
