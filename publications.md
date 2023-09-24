@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Research Work
 ---
 
-[[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html) <br/>
+[[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html)  [[**Patent**]](https://www.patentguru.com/cn/inventor/%E5%BE%90%E6%9B%A6%E7%83%88) <br/>
 My research works lie in the following three categories (\* refers to equal contributions): <br/>
 **(1) Towards developing adversarially robust foundation models.**
 - Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (*NeurIPS 2023*) [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]() <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli
