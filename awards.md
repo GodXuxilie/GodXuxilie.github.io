@@ -9,10 +9,16 @@ title: Service
 - Long-term Reviewer (Journal): TMLR, TAI.
 - Member of the executive group of [TrustML Young Scientist Seminars](https://trustmlresearch.github.io/index.html) sponsored by RIEKN-AIP, Tokyo.
 
-
 ## Award
 - Research Achievement Award, SoC, NUS, 2022.
 - ICML 2022 Participation Grant, ICML 2022.
 - Outstanding Reviewer Award, NeurIPS 2021.
 - Outstanding Undergraduate Thesis Award, Shandong University, 2021.
+
+
+## Teaching Assistant
+- CS5242 Deep Learning and Neural Networks, Semester 2, AY21-22, SoC, NUS.
+- CS3244 Machine Learning, Semester 1, AY23-24, SoC, NUS.
+
+
 
