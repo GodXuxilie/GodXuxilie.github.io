@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me
-<img src="/images/me2.jpg" class="floatpic" width="360" height="640">
+<img src="/images/me3.jpg" class="floatpic" width="360" height="640">
 Here is **Xilie Xu (徐曦烈)**. <br/>
 I am a third-year PhD student in [School of Computing](https://www.comp.nus.edu.sg/) at [National University of Singapore](https://www.nus.edu.sg/) supervised by [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) and co-advised by [Prof. Jingfeng Zhang](https://profiles.auckland.ac.nz/jingfeng-zhang). Before that, I received my bachelor’s degree in Computer Science from [Honored Taishan College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
