@@ -6,7 +6,7 @@ title: Talk
 
 ## Invited Talk
 - [AIGC’23 conference](https://icaigc.org/) at Shanghai, China, on 26 Aug. 2023. <br/>
-**Title**: Towards Effective and Efficient Self-Supervised Robust Pre-training. [Certification](/file/Certificate%20of%20invited%20speaker-Dr.%20XIlie%20Xu.pdf) [Slides](/file/talk/Slides_AIGC23_Aug_26th_Formal.pdf)
+**Title**: Towards Effective and Efficient Self-Supervised Robust Pre-training. [[Slides]](/file/talk/Slides_AIGC23_Aug_26th_Formal.pdf) [[Certification]](/file/Certificate%20of%20invited%20speaker-Dr.%20XIlie%20Xu.pdf) 
 
 ## Conference Presentation
 - [ICML’22 conference](https://icml.cc/Conferences/2022) at Baltimore, USA, on 21 Jul. 2022. <br/>
