@@ -7,8 +7,9 @@ title: Research
 [[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html)  [[**Patent**]](https://www.patentguru.com/cn/inventor/%E5%BE%90%E6%9B%A6%E7%83%88) <br/>
 
 ## Research Statement
-I am broadly interested in the theories and applications of **adversarial machine learning**. My current research focuses on developing adversarially robust foundation models, as well as evaluating and enhancing the adversarial robustness of AI-powered applications (e.g., statistical models, LLMs, diffusion models). <br/>
+I am broadly interested in the theories and applications of **adversarial machine learning**. My current research focuses on developing adversarially robust foundation models, as well as evaluating and enhancing the adversarial robustness of AI-powered applications (e.g., statistical models, LLMs, diffusion models).
 
+<br/>
 Overall, my research works lie in the following three categories: <br/>
 **(1) Towards developing adversarially robust foundation models**: [[NIPS23a, **Spotlight**]](#NIPS23a), [[NIPS23b]](#NIPS23b). <br/>
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICML22]](#ICML22). <br/>
@@ -16,11 +17,10 @@ Overall, my research works lie in the following three categories: <br/>
 
 
 ## Publications
-
 (\* refers to equal contributions)
-- <span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br/> In [*Advances in Neural Information Processing Systems (NeurIPS 2023)*](https://neurips.cc/Conferences/2023), New Orleans, 2023. <br/> [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]()  <br/>
-
 - <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br/> In [*Advances in Neural Information Processing Systems (NeurIPS 2023)*](https://neurips.cc/Conferences/2023), New Orleans, 2023. <br/> [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]() [**Spotlight**]
+
+- <span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br/> In [*Advances in Neural Information Processing Systems (NeurIPS 2023)*](https://neurips.cc/Conferences/2023), New Orleans, 2023. <br/> [[paper]](https://arxiv.org/pdf/2305.00374.pdf) [[code]]()  <br/>
 
 - <span id="ICML22">Adversarial Attack and Defense for Non-Parametric Two-Sample Tests.</span> <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br/> In [*International Conference on Machine Learning (ICML 2022)*](https://icml.cc/Conferences/2022), Baltimore, 2022. <br/> [[paper]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[code]](https://github.com/GodXuxilie/Robust-TST)
 
