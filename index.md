@@ -19,8 +19,5 @@ I am a third-year PhD student in [School of Computing](https://www.comp.nus.edu.
 <br>
 ---
 
-## Research Interest
-I am broadly interested in the theories and applications of **adversarial machine learning**. My current research focuses on developing adversarially **robust foundation models**, as well as evaluating and enhancing the adversarial robustness of AI-powered applications (e.g., statistical models, LLMs, diffusion models). <br/>
-
 <br>
 
