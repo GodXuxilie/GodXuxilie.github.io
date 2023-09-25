@@ -16,7 +16,7 @@ Overall, my research works lie in the following three categories: <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR22]](#TMLR22), [[TDSC22]](#TDSC22), [[ICML20]](#ICML20).
 
 
-## Publications
+## Publication
 (\* refers to equal contributions)
 - <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br/> In [*Advances in Neural Information Processing Systems (NeurIPS 2023)*](https://neurips.cc/Conferences/2023), New Orleans, 2023. <br/> [[paper]](https://arxiv.org/pdf/2302.03857.pdf) [[code]]() [**Spotlight**]
 
