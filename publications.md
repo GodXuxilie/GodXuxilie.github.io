@@ -8,7 +8,7 @@ title: Research
 
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**.
-I'm always welcoming the possibility of collaborations. Please feel free to contact me via email if you have any appropriate opportunities you'd like to explore.
+I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore.
 
 <br/>
 Overall, my research works lie in the following three categories: <br/>
