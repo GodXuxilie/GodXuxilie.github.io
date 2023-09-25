@@ -7,7 +7,8 @@ title: Research
 [[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html)  [[**Patent**]](https://www.patentguru.com/cn/inventor/%E5%BE%90%E6%9B%A6%E7%83%88) <br/>
 
 ## Research Statement
-I am broadly interested in the theories and applications of **adversarial machine learning**. My current research focuses on developing adversarially robust foundation models, as well as evaluating and enhancing the adversarial robustness of AI-powered applications (e.g., statistical models, LLMs, diffusion models).
+I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**.
+I'm always welcoming the possibility of collaborations. Please feel free to contact me via email if you have any appropriate opportunities you'd like to explore.
 
 <br/>
 Overall, my research works lie in the following three categories: <br/>
