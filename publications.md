@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Research
 ---
 
-[[**Google scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html)  [[**Patent**]](https://www.patentguru.com/cn/inventor/%E5%BE%90%E6%9B%A6%E7%83%88) <br/>
+[[**Google Scholar**]](https://scholar.google.com/citations?hl=en&user=zea9MKUAAAAJ) [[**DBLP**]](https://dblp.org/pid/259/2327.html)  [[**Patent**]](https://www.patentguru.com/cn/inventor/%E5%BE%90%E6%9B%A6%E7%83%88) <br/>
 
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**.
