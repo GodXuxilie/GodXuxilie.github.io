@@ -9,6 +9,9 @@ Here is **Xilie Xu (徐曦烈)**. <br/>
 I am a third-year (Aug. 2021-present) PhD student in [School of Computing](https://www.comp.nus.edu.sg/) at [National University of Singapore](https://www.nus.edu.sg/) supervised by [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) and co-advised by [Prof. Jingfeng Zhang](https://zjfheart.github.io/index.html). Before that, I received my bachelor’s degree in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
 <!-- --- -->
+<br/>
+
+*I am looking for a research intern or visiting scholar position. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if there is an interest!*
 
 ## News
 - September 2023: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
