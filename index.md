@@ -11,8 +11,9 @@ I am a third-year PhD student in [School of Computing](https://www.comp.nus.edu.
 <!-- --- -->
 
 ## News
-- Sep 2023: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
-- Sep 2023: I was invited as a reviewer for ICLR'24.
-- Aug 2023: I gave a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23 conference, Shanghai, China.
+- Sep. 2023: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
+- Sep. 2023: I was invited as a reviewer for ICLR'24.
+- Aug. 2023: I gave a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23, Shanghai, China.
+- Apr. 2023: I designed the homepage of [N-CRiPT Technical Workshop 2023](https://ncript.comp.nus.edu.sg/site/ncript-workshop-2023/) and presented a [poster](/file/poster/NCRiPT_workshop_poster_Xu_Xilie.pdf).
 
 
