@@ -15,6 +15,7 @@ I am a third-year PhD student in [School of Computing](https://www.comp.nus.edu.
 - September 2023: I was invited as a reviewer for ICLR'24.
 - August 2023: I gave a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23, Shanghai, China.
 - April 2023: I built the homepage of [N-CRiPT Technical Workshop 2023](https://ncript.comp.nus.edu.sg/site/ncript-workshop-2023/) and presented a [poster](/file/poster/NCRiPT_workshop_poster_Xu_Xilie.pdf) at the workshop.
+- December 2022: I successfully passed the PhD Qualification Examination!
 
 
 
