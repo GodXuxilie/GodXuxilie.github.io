@@ -10,7 +10,6 @@ I am a third-year (Aug. 2021-present) PhD student in [School of Computing](https
 
 <!-- --- -->
 <br/>
-
 *I am looking for a research intern or visiting scholar position. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if there is an interest!*
 
 ## News
