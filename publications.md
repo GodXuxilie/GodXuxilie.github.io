@@ -8,14 +8,12 @@ title: Research
 
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
-I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore.
-
-<br/>
 Overall, my research works lie in the following three categories: <br/>
 **(1) Towards developing adversarially robust foundation models**: [[NeurIPS23a, *Spotlight*]](#NIPS23a), [[NeurIPS23b]](#NIPS23b). <br/>
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICML22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR22]](#TMLR22), [[TDSC22]](#TDSC22), [[ICML20]](#ICML20).
 
+<!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
 ## Publication
 (\* refers to equal contributions)
