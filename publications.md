@@ -18,10 +18,12 @@ Overall, my research works lie in the following three categories: <br/>
 ## Preprint
 - <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
 <br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
+<br/> *Preprint'23a.*
 <br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]]() [[Project Page]](https://robustssl.github.io/)
 
 - <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
 <br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
+<br> *Preprint'23b.*
 <br/> [[PDF]]() [[Code]]() [[Project Page]](./project_page/prompt_attack/index.html)
 
 
