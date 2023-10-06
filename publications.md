@@ -10,7 +10,7 @@ title: Research
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
 **(1) Towards developing adversarially robust foundation models**: [[NeurIPS23a, *Spotlight*]](#NIPS23a), [[NeurIPS23b]](#NIPS23b). <br/>
-**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICML22]](#ICML22). <br/>
+**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [ArXiv'23](#autoRFT) [[ICML22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR22]](#TMLR22), [[TDSC22]](#TDSC22), [[ICML20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
@@ -46,3 +46,14 @@ Overall, my research works lie in the following three categories: <br/>
 - <span id="ICML20">Attacks Which Do Not Kill Training Make Adversarial Learning Stronger.</span> 
 <br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2022)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZV_a5WLALAEJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkCUQ:AFWwaeYAAAAAZRFiEUTG2oLZn2W5XLkSdws1DXM&scisig=AFWwaeYAAAAAZRFiET8IWpCGzhK4DGqoMdS7mXI&scisf=4&ct=citation&cd=-1&hl=en)
+
+
+
+## Preprint
+- <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
+<br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
+<br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Project Page]](./project_page/Benchmark_transferability/index.html)
+
+- <span id="autoRFT">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
+<br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
+<br/> [[PDF]]() [[Project Page]](./project_page/prompt_attack/index.html)
