@@ -1837,9 +1837,10 @@ section {
 }
 
 #schedule .schedule-item-odd {
-  border-bottom: 1px solid #757588;
+  border-bottom: 1px solid #cad4f6;
   padding-top: 15px;
   padding-bottom: 15px;
+  background-color: rgb(18, 18, 53);
   transition: background-color ease-in-out 0.3s;
 }
 
