@@ -22,7 +22,7 @@ Overall, my research works lie in the following three categories: <br/>
 
 - <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
 <br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
-<br/> [[PDF]]() [[Code]]() [[Project Page]](./project_page/prompt_attack/)
+<br/> [[PDF]]() [[Code]]() [[Project Page]](./project_page/prompt_attack/index.html)
 
 
 ## Publication
