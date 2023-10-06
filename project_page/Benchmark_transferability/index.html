@@ -1,312 +1,460 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
   <meta charset="utf-8">
-  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
-  <!-- Replace the content tag with appropriate information -->
-  <meta name="description" content="DESCRIPTION META TAG">
-  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
-  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
-  <meta property="og:url" content="URL OF THE WEBSITE"/>
-  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
-  <meta property="og:image" content="static/image/your_banner_image.png" />
-  <meta property="og:image:width" content="1200"/>
-  <meta property="og:image:height" content="630"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+  <title>RobustSSL Benchmark</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
 
-  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
-  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
-  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
-  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
-  <meta name="twitter:card" content="summary_large_image">
-  <!-- Keywords for your paper to be indexed by-->
-  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Favicons -->
+  <!-- <link href="assets/img/ncript_logo.svg" rel="icon"> -->
+  <!-- <link href="assets/img/ncript_logo.svg" rel="apple-touch-icon"> -->
 
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-  <title>Academic Project Page</title>
-  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
-  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
-  rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <link rel="stylesheet" href="static/css/bulma.min.css">
-  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
-  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
-  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
-  <link rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-  <link rel="stylesheet" href="static/css/index.css">
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-  <script defer src="static/js/fontawesome.all.min.js"></script>
-  <script src="static/js/bulma-carousel.min.js"></script>
-  <script src="static/js/bulma-slider.min.js"></script>
-  <script src="static/js/index.js"></script>
+  <!-- =======================================================
+  * Template Name: Remember
+  * Updated: Mar 10 2023 with Bootstrap v5.2.3
+  * Template URL: https://bootstrapmade.com/remember-free-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
+
 <body>
 
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-between">
 
-  <section class="hero">
-    <div class="hero-body">
-      <div class="container is-max-desktop">
-        <div class="columns is-centered">
-          <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">Academic Project Page</h1>
-            <div class="is-size-5 publication-authors">
-              <!-- Paper authors -->
-              <span class="author-block">
-                <a href="FIRST AUTHOR PERSONAL LINK" target="_blank">First Author</a><sup>*</sup>,</span>
-                <span class="author-block">
-                  <a href="SECOND AUTHOR PERSONAL LINK" target="_blank">Second Author</a><sup>*</sup>,</span>
-                  <span class="author-block">
-                    <a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Third Author</a>
-                  </span>
-                  </div>
+      <div class="logo">
+        <h1 class="text-light"><a href="">RobustSSL Benchmark</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <h2> </h2> -->
+        <!-- <a href="index.html"><img src="assets/img/ncript_logo.svg" alt="" class="img-fluid"></a> -->
+      </div>
 
-                  <div class="is-size-5 publication-authors">
-                    <span class="author-block">Institution Name<br>Conferance name and year</span>
-                    <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
-                  </div>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Leaderboards</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#about">Model Zoo</a></li> -->
+          <!-- <li><a class="nav-link scrollto " href="#schedule">Program</a></li>
+          <li><a class="nav-link scrollto" href="#speakers">Speakers</a></li>
+          <li><a class="nav-link scrollto" href="#discussion">Panel</a></li>
+          <li><a class="nav-link scrollto" href="#venue">Venue</a></li> -->
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
 
-                  <div class="column has-text-centered">
-                    <div class="publication-links">
-                         <!-- Arxiv PDF link -->
-                      <span class="link-block">
-                        <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
-                        class="external-link button is-normal is-rounded is-dark">
-                        <span class="icon">
-                          <i class="fas fa-file-pdf"></i>
-                        </span>
-                        <span>Paper</span>
-                      </a>
-                    </span>
+    </div>
+  </header><!-- End Header -->
 
-                    <!-- Supplementary PDF link -->
-                    <span class="link-block">
-                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"
-                      class="external-link button is-normal is-rounded is-dark">
-                      <span class="icon">
-                        <i class="fas fa-file-pdf"></i>
-                      </span>
-                      <span>Supplementary</span>
-                    </a>
-                  </span>
+  <!-- ======= Hero Section ======= -->
+  <!-- <section id="hero", class="hero"> -->
+    <!-- <div class="hero-container" data-aos="fade-up"> -->
+      <!-- <h1>Benchmarking Robustness Transferability <br> of Robust Self-Supervised Learning (RobustSSL)</h1> -->
+      <!-- <h2>April 20th, 2023<br> NUSS Kent Ridge Guild House, NUS, Singapore</h2> -->
+      <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScx5TXTJ77ruQ07kd9aJU7Nz-Ri5_HeV2mUuoibQwMajG7y_Q/viewform" class="btn-get-started scrollto">Registration Link</a> -->
+    <!-- </div> -->
+  <!-- </section> -->
+  <!-- End Hero -->
 
-                  <!-- Github link -->
-                  <span class="link-block">
-                    <a href="https://github.com/YOUR REPO HERE" target="_blank"
-                    class="external-link button is-normal is-rounded is-dark">
-                    <span class="icon">
-                      <i class="fab fa-github"></i>
-                    </span>
-                    <span>Code</span>
-                  </a>
-                </span>
+  <main id="main">
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+        <div class="section-title" data-aos="zoom-in">
+          <h2>RobustSSL Benchmark</a></h2>
+          <!-- <h3>Introduction to <span>N-CRiPT</span></h3> -->
+          <br>
+          <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScx5TXTJ77ruQ07kd9aJU7Nz-Ri5_HeV2mUuoibQwMajG7y_Q/viewform" class="btn-get-started scrollto">GitHub</a> -->
+        </div>
+        <div class="row">
+          <!-- <div class="col-xl-6 col-lg-3 image-box d-flex justify-content-center align-items-stretch" data-aos="zoom-in">
+            <img src="./assets/img/ncript-bg.jpeg" width=120% alt="some_text">
+          </div> -->
+          <!-- <div class="col-xl-6 col-lg-4 d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5"> -->
+            <div class="box-heading" data-aos="fade-up">
+              <h3>Introduction to Robust Self-Supervised Learning (RobustSSL) Benchmark</h3>
+              <p style="font-size: 17px;"> The wide-ranging applications of foundation models, espeically in safety-critical areas, necessitates the robust self-supervised learning (RobustSSL) which can yield adversarially robust foundation models. 
+                Fine-tuning these robust foundation models can lead to strong adversarial robustness in downstream tasks. 
+                Here, we build a leaderboard for transferability of RobustSSL methods, which aims to provide a comprehensive evaluation of RobustSSL methods and facilitate the research in robust pre-training.
+                 </p>
+              <h3>Performance Mesurement</h3>
+              The code for conducting fine-tuning and evaluation is provided in <a href="https://github.com/GodXuxilie/ACL_Benchmark">GitHub</a>.<br>
+              <!-- We use the following three fine-tuning modes to provide a comprehensive evaluation of the transferability: -->
+              <h3 style="font-size: 17px;">Fine-Tuning Modes</h3>
+              <ul style="font-size: 17px;">
+                <li>Standard linear fine-tuning (SLF): only standardly fine-tuning the classifier while freezing the encoder.
+                </li>
+                <li>Adversarial linear fine-tuning (ALF): only adversarially fine-tuning the classifier while freezing the encoder.</li>
+                <li>Adversarial full fine-tuning (AFF): adversarially fine-tuning both the encoder and the classifier.</li>
+              </ul>
+              <!-- We use the following three evaluation metrics to meausre the performance in downstream tasks: -->
+              <h3 style="font-size: 17px;">Evaluation Metrics</h3>
+              <ul style="font-size: 17px;">
+                <li> Standard accuracy refers to the standard test accuracy evaluated on the natural test data.</li>
+                <li>Robust accuracy refers to the robust test accuracy evaluated on the adversarial test data generated via the standard version of AutoAttack.</li>
+                <li>Corruption accuracy refers to the mean test accuracy of the test data under common corruptions with corruption severity ranging {1,2,3,4,5}.</li>
+              </ul>
+              <h3>Leaderboards</h3>
+              <ul style="font-size: 17px;">
+                <li><a class="nav-link scrollto active" href="#cifar10-cifar10"><u>Transferability from CIFAR-10 to CIFAR-10</u></a></li>
+                <li><a class="nav-link scrollto active" href="#cifar100-cifar100"><u>Transferability from CIFAR-100 to CIFAR-100</u></a></li>
+                <li><a class="nav-link scrollto active" href="#stl10-stl10"><u>Transferability from STL-10 to STL-10</u></a></li>
+                <li><a class="nav-link scrollto active" href="#cifar10-stl10"><u>Transferability from CIFAR-10 to STL-10</u></a></li>
+                <li><a class="nav-link scrollto active" href="#cifar10-stl10"><u>Transferability from CIFAR-100 to STL-10</u></a></li>
+              </ul>
+             
+          <!-- </div> -->
+        </div>
 
-                <!-- ArXiv abstract Link -->
-                <span class="link-block">
-                  <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
-                  class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                    <i class="ai ai-arxiv"></i>
-                  </span>
-                  <span>arXiv</span>
-                </a>
-              </span>
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- Begin Schedule Section -->
+    <section id="cifar10-cifar10" class="section-with-bg">
+      <div class="container wow fadeInUp", data-aos="fade-up">
+        <div class="section-title" data-aos="zoom-in">
+          <h2>Transferability from CIFAR-10 to CIFAR-10</h2>
+        </div>
+
+        <!-- <div class="row schedule-item", style="background-color: rgb(229, 229, 237);"> -->
+        <div class="row schedule-item">
+          <div class="col-md-2"><time><center><h5>8:30-9:00</h5></div>
+          <div class="col-md-10">
+            <h5><b>Registration</b></h5>
+            <h4>Venue: Level 1@Della & Seng Gee Guild Hall, NUSS Kent Ridge Guild House, NUS</i></h4>
+          </div>
+        </div>
+        <div class="row schedule-item">
+          <div class="col-md-2"><time><center><h5>9:00-9:10</h5> </time></div>
+          <div class="col-md-10">
+            <h5><b>Opening Remarks</b></h5>
+            <h4>Prof. Mohan Kankanhalli (Director, N-CRiPT)</i></h4>
+          </div>
+        </div>
+
+
+        <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
+          <div class="col-md-2"><time><center><h5>9:10-9:45</h5></time></div>
+          <div class="col-md-10">
+            <h5><b>Invited Talk 1</b></h5>
+            <div class="row">
+              <div class="col">
+                <h4><i>Trustworthy Media</i></h4>
+              </div>
+              <div class="col">
+                <div style="float:left"><h4> Prof. Nasir Memon (New York University)</h4></div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-<!-- Teaser video-->
-<section class="hero teaser">
-  <div class="container is-max-desktop">
-    <div class="hero-body">
-      <video poster="" id="tree" autoplay controls muted loop height="100%">
-        <!-- Your video here -->
-        <source src="static/videos/banner_video.mp4"
-        type="video/mp4">
-      </video>
-      <h2 class="subtitle has-text-centered">
-        Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at, placerat pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus. 
-      </h2>
-    </div>
-  </div>
-</section>
-<!-- End teaser video -->
-
-<!-- Paper abstract -->
-<section class="section hero is-light">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Abstract</h2>
-        <div class="content has-text-justified">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellus sed ante aliquam tempus. Etiam porttitor urna feugiat nibh elementum, et tempor dolor mattis. Donec accumsan enim augue, a vulputate nisi sodales sit amet. Proin bibendum ex eget mauris cursus euismod nec et nibh. Maecenas ac gravida ante, nec cursus dui. Vivamus purus nibh, placerat ac purus eget, sagittis vestibulum metus. Sed vestibulum bibendum lectus gravida commodo. Pellentesque auctor leo vitae sagittis suscipit.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End paper abstract -->
-
-
-<!-- Image carousel -->
-<section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <div id="results-carousel" class="carousel results-carousel">
-       <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel1.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-          First image description.
-        </h2>
-      </div>
-      <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel2.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-          Second image description.
-        </h2>
-      </div>
-      <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel3.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-         Third image description.
-       </h2>
-     </div>
-     <div class="item">
-      <!-- Your image here -->
-      <img src="static/images/carousel4.jpg" alt="MY ALT TEXT"/>
-      <h2 class="subtitle has-text-centered">
-        Fourth image description.
-      </h2>
-    </div>
-  </div>
-</div>
-</div>
-</section>
-<!-- End image carousel -->
-
-
-
-
-<!-- Youtube video -->
-<section class="hero is-small is-light">
-  <div class="hero-body">
-    <div class="container">
-      <!-- Paper video. -->
-      <h2 class="title is-3">Video Presentation</h2>
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-four-fifths">
-          
-          <div class="publication-video">
-            <!-- Youtube embed code here -->
-            <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            
+        <div class="row schedule-item" style="background-color: rgb(229, 246, 232);">
+          <div class="col-md-2"><time><center><h5>9:45-10:45</h5> </time></div>
+          <div class="col-md-10">
+            <h5><b>Technical Session 1 (Privacy-Preserving Models & Data Publishing)</b></h5>
+            <div class="row">
+              <div class="col">
+                <h4><i>Synthesizing Relational Data with Differential Privacy</i></h4>
+              </div>
+              <div class="col">
+                  <div style="float:left"><h4> Prof. Xiao Xiaokui (National University of Singapore)</h4></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <h4><i>Bias Propagation in Federated Learning</i></h4>
+              </div>
+              <div class="col">
+                <div style="float:left"><h4> Chang Hongyan (National University of Singapore)</h4></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <h4><i>Differentially Private Federated Bayesian Optimization with Distributed Exploration</i></h4>
+              </div>
+              <div class="col">
+                <div style="float:left"><h4> Dr. Dai Zhongxiang (National University of Singapore)</h4></div>
+              </div>
+            </div>
+            <!-- <h4><b>Talk 1</b>: <i>Title</i> - Hongyan Chang (National University of Singapore)</h4> -->
+            <!-- <h4><b>Talk 2</b>: <i>Title</i> - Speaker</h4> -->
+            <!-- <h4><b>Talk 3</b>: <i>Title</i> - Dr. Dai Zhongxiang (Research Fellow): Differentially Private Federated Bayesian Optimization with Distributed Exploration</h4> -->
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End youtube video -->
-
-
-<!-- Video carousel -->
-<section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <h2 class="title is-3">Another Carousel</h2>
-      <div id="results-carousel" class="carousel results-carousel">
-        <div class="item item-video1">
-          <video poster="" id="video1" autoplay controls muted loop height="100%">
-            <!-- Your video file here -->
-            <source src="static/videos/carousel1.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-        <div class="item item-video2">
-          <video poster="" id="video2" autoplay controls muted loop height="100%">
-            <!-- Your video file here -->
-            <source src="static/videos/carousel2.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-        <div class="item item-video3">
-          <video poster="" id="video3" autoplay controls muted loop height="100%">\
-            <!-- Your video file here -->
-            <source src="static/videos/carousel3.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End video carousel -->
-
-
-
-
-
-
-<!-- Paper poster -->
-<section class="hero is-small is-light">
-  <div class="hero-body">
-    <div class="container">
-      <h2 class="title">Poster</h2>
-
-      <iframe  src="static/pdfs/sample.pdf" width="100%" height="550">
-          </iframe>
         
-      </div>
-    </div>
-  </section>
-<!--End paper poster -->
 
-
-<!--BibTex citation -->
-  <section class="section" id="BibTeX">
-    <div class="container is-max-desktop content">
-      <h2 class="title">BibTeX</h2>
-      <pre><code>BibTex Code Here</code></pre>
-    </div>
-</section>
-<!--End BibTex citation -->
-
-
-  <footer class="footer">
-  <div class="container">
-    <div class="columns is-centered">
-      <div class="column is-8">
-        <div class="content">
-
-          <p>
-            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
-            You are free to borrow the of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
-            Commons Attribution-ShareAlike 4.0 International License</a>.
-          </p>
-
+        <div class="row schedule-item">
+          <div class="col-md-2"><time><center> <h5>10:45-11:30</h5> </time></div>
+          <div class="col-md-10">
+            <h5><b>Poster Session & Tea Break</b></h5>
+            <!-- <h4>Prof. Nasir Memon</h4> -->
+          </div>
         </div>
+
+          <div class="row schedule-item" style="background-color: rgb(229, 246, 232);">
+            <div class="col-md-2"><time><center><h5>11:30-12:30</h5> </time></div>
+            <div class="col-md-10">
+              <h5><b>Technical Session 2 (Collaborative Private Computation)</b></h5>
+              <div class="row">
+                <div class="col">
+                  <h4><i>Finding Stable Clusters over Generic, Heterogeneous Data: Method and Applications</i></h4>
+                </div>
+                <div class="col">
+                  <div style="float:left"><h4> Prof. Anthony Tung (National University of Singapore)</h4></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <h4><i>Curious or Malicious: Towards Different Security Levels in Privacy-preserving Computation</i></h4>
+                </div>
+                <div class="col">
+                  <div style="float:left"><h4> Dr. Song Xiangfu (National University of Singapore)</h4></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <h4><i>Towards Trustworthy Human-Centered Explainable AI</i></h4>
+                </div>
+                <div class="col">
+                  <div style="float:left"><h4> Prof. Brian Lim (National University of Singapore)</h4></div>
+                </div>
+              </div>
+              <!-- <h4><b>Talk 1</b>: <i>Finding Stable Clusters over Generic, Heterogeneous Data: Method and Applications</i> - Prof. Anthony Tung (National University of Singapore)</h4> -->
+              <!-- <h4><b>Talk 2</b>: <i>Title</i> - Dr. Song Xiangfu (National University of Singapore)</h4> -->
+              <!-- <h4><b>Talk 3</b>: <i>Title</i> - Prof. Brian Y. Lim (National University of Singapore) </h4> -->
+            </div>
+          </div>
+            
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time><center><h5>12:30-13:30</h5></time></div>
+            <div class="col-md-10">
+              <h5><b>Lunch Break</b></h5>
+              <!-- <h4>Prof. Nasir Memon</h4> -->
+            </div>
+          </div>
+
+          <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
+            <div class="col-md-2">
+              <time><br><center><h5>13:30-13:45</h5> </time>
+            </div>
+            <div class="col-md-10">
+              <h5><b>The Future & Challenges of Digital Trust </b></h5>
+              <div class="row">
+                <div class="col">
+                  <h4><i>Introduction to the National Digital Trust Centre</i></h4>
+                </div>
+                <div class="col">
+                  <div style="float:left"><h4> Prof. Lam Kwok Yan (Nanyang Technological University)</h4></div>
+                </div>
+              </div>
+              <!-- <h4><i>Title</i> - Prof. Lam Kwok Yan (Nanyang Technological University)</i></h4> -->
+            </div>
+          </div>
+
+          <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
+            <div class="col-md-2">
+              <time><center><h5>13:45-14:30</h5></center> </time>
+            </div>
+            <div class="col-md-10">
+              <h5><b>Panel Discussion</b></h5>
+              <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-1">
+                  <h4> <i>Moderator</i></h4>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col">
+                  <div style="float:left"><h4> Prof. Mohan Kankanhalli (Director, N-CRiPT)</h4></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-1">
+                  <h4><i>Panel</i></h4>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col">
+                  
+                  <div style="float:left"><h4> Prof. Lam Kwok Yan (Nanyang Technological University)</h4></div>
+                  
+                  <br>
+                  <div style="float:left"><h4>Prof. Robert Deng (Singapore Management University)</h4></div>
+          
+                  <br>
+                  <div style="float:left"><h4>Prof. Geng Weidong (Zhejiang University)</h4></div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time><center><h5>14:30-15:15</h5> </time></div>
+            <div class="col-md-10">
+              <h5><b>Poster Session & Tea Break</b></h5>
+            </div>
+          </div>
+            
+            <div class="row schedule-item" style="background-color: rgb(229, 246, 232);">
+              <div class="col-md-2"><time><center><h5>15:15-16:15</h5> </time></div>
+              <div class="col-md-10">
+                <h5><b>Technical Session 3 (Privacy-Aware Data Sensing & Gathering Platform)</b></h5>
+                <div class="row">
+                  <div class="col">
+                    <h4><i>Vision-and-Language Research: Towards Universal Multimodal Intelligence</i></h4>
+                  </div>
+                  <div class="col">
+                    <div style="float:left"><h4> Dr. Li Junnan (Salesforce Research Asia)</h4></div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col">
+                    <h4><i>Combining Common Knowledge with Deep Learning Models</i></h4>
+                  </div>
+                  <div class="col">
+                    <div style="float:left"><h4> Xu Ziwei (National University of Singapore)</h4></div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col">
+                    <h4><i>Collaborative Split Learning Framework for Smart Grid Load Forecasting</i></h4>
+                  </div>
+                  <div class="col">
+                    <div style="float:left"><h4> Dr. Asif Iqbal (National University of Singapore)</h4></div>
+                  </div>
+                </div>
+                <!-- <h4><b>Talk 1</b>: <i>Language-and-vision Research and Applications</i> - Dr. Li Junnan (Salesforce Research Asia)</h4> -->
+                <!-- <h4><b>Talk 2</b>: <i>ML with Symbolic Knowledge</i> - Dr. Xu Ziwei (National University of Singapore) </h4> -->
+                <!-- <h4><b>Talk 3</b>: <i>Title</i> - Speaker</h4> -->
+              </div>
+            </div>
+
+            <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
+              <div class="col-md-2"><time><center><h5>16:15-17:00 </h5></time></div>
+              <div class="col-md-10">
+                <h5><b>Invited Talk 2</b></h5>
+                <div class="row">
+                  <div class="col">
+                    <h4><i>Towards Trustworthy Perception for Intelligent Machines</i></h4>
+                  </div>
+                  <div class="col">
+                    <div style="float:left"><h4> Prof. Yang Yi (Zhejiang University)</h4></div>
+                  </div>
+                </div>
+                <!-- <h4><i>Towards Trustworthy Perception for Intelligent Machines</i> - Prof. Yi Yang (Zhejiang University)</h4> -->
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-2"><time><center><h5>17:00-17:10</h5> </time></div>
+              <div class="col-md-10">
+                <h5><b>Closing Remarks</b></h5>
+                <h4>Prof. Anthony Tung (Deputy Director, N-CRiPT)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time><center><h5>17:10</h5> </time></div>
+              <div class="col-md-10">
+                <h5><b>Workshop Dinner</b></h5>
+                <h4>Venue: <a href="https://goo.gl/maps/irEVSUyGuDwbxU9XA">Peppermint</a>, Level 4 PARKROYAL COLLECTION Marina Bay, Singapore 039594</h4>
+              </div>
+            </div>
+            
+        </div>
+
+    </section><!-- End Schedule Section -->
+    
+    <!-- ======= Contact Section ======= -->
+    <section id="venue" class="contact">
+      <div class="container">
+
+        <div class="section-title" data-aos="zoom-in">
+          <h2>Workshop Venue</h2>
+          <h3><span>Date: </span> April 20th, 2023</h3>
+          <h3><span>Venue: </span>Level 1@Della & Seng Gee Guild Hall, NUSS Kent Ridge Guild House, <br> 9 Kent Ridge Dr, Singapore 11924</h3>
+          <!-- <h3><span>E-mail: </span> ang.jy@nus.edu.sg</h3> -->
+          <!-- <h3><span>N-CRiPT homepage: </span>  https://ncript.comp.nus.edu.sg/</h3> -->
+        </div>
+
+        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=NUSS%20Kent%20Ridge%20Guild%20House+(Venue)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">measure acres/hectares on map</a></iframe></div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+     <!-- ======= Contact Section ======= -->
+     <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title" data-aos="zoom-in">
+          <h2>Contact</h2>
+          <!-- <h3><span>Time: </span> April 20th, 2023</h3> -->
+          <!-- <h3><span>Venue: </span> NUSS Kent Ridge Guild House, 9 Kent Ridge Dr, Singapore 11924</h3> -->
+          <h3><span>E-mail: </span> ang.jy@nus.edu.sg</h3>
+          <h3><span>N-CRiPT homepage: </span>  https://ncript.comp.nus.edu.sg/</h3>
+        </div>
+
+        <!-- <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=NUSS%20Kent%20Ridge%20Guild%20House+(Venue)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">measure acres/hectares on map</a></iframe></div> -->
+        <!-- <div class="row mt-5"> -->
+        <!-- </div> -->
+
+      </div>
+    </section><!-- End Contact Section -->
+
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container footer-bottom clearfix">
+      <div class="copyright">
+        &copy; Copyright <strong><span>RobustSSL</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/remember-free-multipurpose-bootstrap-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
     </div>
-  </div>
-</footer>
+  </footer>
+  <!-- End Footer -->
 
-<!-- Statcounter tracking code -->
-  
-<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-    <!-- End of Statcounter Code -->
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  </body>
-  </html>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
