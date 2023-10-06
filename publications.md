@@ -9,11 +9,21 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing adversarially robust foundation models**: [[NeurIPS23a, *Spotlight*]](#NIPS23a), [[NeurIPS23b]](#NIPS23b). <br/>
-**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[Preprint'23b]](#promptattack) [[Preprint'23a]](#autoRFT) [[ICML22]](#ICML22). <br/>
+**(1) Towards developing and utilizing adversarially robust foundation models**: [[Preprint'23a]](#autoRFT) [[NeurIPS23a, *Spotlight*]](#NIPS23a), [[NeurIPS23b]](#NIPS23b). <br/>
+**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[Preprint'23b]](#promptattack) [[ICML22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR22]](#TMLR22), [[TDSC22]](#TDSC22), [[ICML20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
+
+## Preprint
+- <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
+<br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
+<br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]]() [[Project Page]](./project_page/Benchmark_transferability/index.html)
+
+- <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
+<br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
+<br/> [[PDF]]() [[Code]]() [[Project Page]](./project_page/prompt_attack/index.html)
+
 
 ## Publication
 (\* refers to equal contributions)
@@ -49,11 +59,3 @@ Overall, my research works lie in the following three categories: <br/>
 
 
 
-## Preprint
-- <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
-<br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
-<br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]]() [[Project Page]](./project_page/Benchmark_transferability/index.html)
-
-- <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
-<br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
-<br/> [[PDF]]() [[Code]]() [[Project Page]](./project_page/prompt_attack/index.html)
