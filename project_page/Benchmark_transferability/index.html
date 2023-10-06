@@ -106,12 +106,18 @@
                 <li>Adversarial linear fine-tuning (ALF): only adversarially fine-tuning the classifier while freezing the encoder.</li>
                 <li>Adversarial full fine-tuning (AFF): adversarially fine-tuning both the encoder and the classifier.</li>
               </ul>
+              <h3>Fine-Tuning Methods</h3>
+              <ul style="font-size: 17px;">
+                <li>Vanilla: You need to specify the hyper-parameters such as the learning rate and the batch size for each pre-trained models. 
+                </li>
+                <li>AutoLoRa (Xu et al., ArXiv'23): It is a parameter-free and automated robust fine-tuning framework. You DO NOT need to search for the appropriate hyper-parameters.</li>
+              </ul>
               <!-- We use the following three evaluation metrics to meausre the performance in downstream tasks: -->
               <h3 style="font-size: 17px;">Evaluation Metrics</h3>
               <ul style="font-size: 17px;">
-                <li> Standard accuracy refers to the standard test accuracy evaluated on the natural test data.</li>
-                <li>Robust accuracy refers to the robust test accuracy evaluated on the adversarial test data generated via the standard version of AutoAttack.</li>
-                <li>Corruption accuracy refers to the mean test accuracy of the test data under common corruptions with corruption severity ranging {1,2,3,4,5}.</li>
+                <li> Standard accuracy (SA) refers to the standard test accuracy evaluated on the natural test data.</li>
+                <li>Robust accuracy (RA) refers to the robust test accuracy evaluated on the adversarial test data generated via the standard version of AutoAttack.</li>
+                <li>Corruption accuracy (CA) refers to the mean test accuracy of the test data under common corruptions with corruption severity ranging {1,2,3,4,5}.</li>
               </ul>
               <h3>Leaderboards</h3>
               <ul style="font-size: 17px;">
@@ -132,276 +138,72 @@
     <section id="cifar10-cifar10" class="section-with-bg">
       <div class="container wow fadeInUp", data-aos="fade-up">
         <div class="section-title" data-aos="zoom-in">
-          <h2>Transferability from CIFAR-10 to CIFAR-10</h2>
+          <h2>Transferability from CIFAR-10 to CIFAR-10 <br>
+          <a href="#cifar10-cifar10-SLF"><u>[SLF]</u></a>
+          <a href="#cifar10-cifar10-ALF"><u>[ALF]</u></a>
+          <a href="#cifar10-cifar10-AFF"><u>[AFF]</u></a> </h2>
         </div>
 
+        <div id="cifar10-cifar10-SLF" class="row">
+          <center><h3><u>Performance Evaluated via SLF</u></h3></center>
+        </div>
         <!-- <div class="row schedule-item", style="background-color: rgb(229, 229, 237);"> -->
-        <div class="row schedule-item">
-          <div class="col-md-2"><time><h5>8:30-9:00</h5></div>
-          <div class="col-md-10">
-            <h5><b>Registration</b></h5>
-            <h4>Venue: Level 1@Della & Seng Gee Guild Hall, NUSS Kent Ridge Guild House, NUS</i></h4>
-          </div>
+        <div class="row schedule-item" >
+          <div class="col-md-1"><h5><center>Rank</center></h5></div>
+          <div class="col-md-4"><h5><center><b>Paper</b></center></h5></div>
+          <!-- <div class="col-md-1"><h5><center><b>Venue</b></center></h5></div> -->
+          <div class="col-md-1"><h5><center><b>RA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>CA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>SA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>RA <br> (AutoLoRa)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>CA <br> (AutoLoRa)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>SA <br> (AutoLoRa)</b></center></h5></div>
         </div>
-        <div class="row schedule-item">
-          <div class="col-md-2"><time>
-            <h5>9:00-9:10</h5> </time></div>
-          <div class="col-md-10">
-            <h5><b>Opening Remarks</b></h5>
-            <h4>Prof. Mohan Kankanhalli (Director, N-CRiPT)</i></h4>
-          </div>
-        </div>
-
-
-        <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
-          <div class="col-md-2"><time><h5>9:10-9:45</h5></time></div>
-          <div class="col-md-10">
-            <h5><b>Invited Talk 1</b></h5>
-            <div class="row">
-              <div class="col">
-                <h4><i>Trustworthy Media</i></h4>
-              </div>
-              <div class="col">
-                <div style="float:left"><h4> Prof. Nasir Memon (New York University)</h4></div>
-              </div>
-            </div>
-          </div>
-        </div>
-            
-        <div class="row schedule-item" style="background-color: rgb(229, 246, 232);">
-          <div class="col-md-2"><time><h5>9:45-10:45</h5> </time></div>
-          <div class="col-md-10">
-            <h5><b>Technical Session 1 (Privacy-Preserving Models & Data Publishing)</b></h5>
-            <div class="row">
-              <div class="col">
-                <h4><i>Synthesizing Relational Data with Differential Privacy</i></h4>
-              </div>
-              <div class="col">
-                  <div style="float:left"><h4> Prof. Xiao Xiaokui (National University of Singapore)</h4></div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col">
-                <h4><i>Bias Propagation in Federated Learning</i></h4>
-              </div>
-              <div class="col">
-                <div style="float:left"><h4> Chang Hongyan (National University of Singapore)</h4></div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col">
-                <h4><i>Differentially Private Federated Bayesian Optimization with Distributed Exploration</i></h4>
-              </div>
-              <div class="col">
-                <div style="float:left"><h4> Dr. Dai Zhongxiang (National University of Singapore)</h4></div>
-              </div>
-            </div>
-            <!-- <h4><b>Talk 1</b>: <i>Title</i> - Hongyan Chang (National University of Singapore)</h4> -->
-            <!-- <h4><b>Talk 2</b>: <i>Title</i> - Speaker</h4> -->
-            <!-- <h4><b>Talk 3</b>: <i>Title</i> - Dr. Dai Zhongxiang (Research Fellow): Differentially Private Federated Bayesian Optimization with Distributed Exploration</h4> -->
-          </div>
-        </div>
-        
-
-        <div class="row schedule-item">
-          <div class="col-md-2"><time> <h5>10:45-11:30</h5> </time></div>
-          <div class="col-md-10">
-            <h5><b>Poster Session & Tea Break</b></h5>
-            <!-- <h4>Prof. Nasir Memon</h4> -->
-          </div>
+        <div class="row schedule-item", style="background-color: rgb(219, 219, 225);">
+          <div class="col-md-1"><h5><center>1</center></h5></div>
+          <div class="col-md-4"><h5><center>Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization (NeruIPS'23)</center></h5></div>
+          <!-- <div class="col-md-1"><h5><center>NeurIPS'23</center></h5></div> -->
+          <div class="col-md-1"><h5><center>10.00</center></h5></div>
+          <div class="col-md-1"><h5><center>10.00</center></h5></div>
+          <div class="col-md-1"><h5><center>10.00</center></h5></div>
+          <div class="col-md-1"><h5><center>10.00</center></h5></div>
+          <div class="col-md-1"><h5><center>10.00</center></h5></div>
+          <div class="col-md-1"><h5><center>10.00</center></h5></div>
         </div>
 
-          <div class="row schedule-item" style="background-color: rgb(229, 246, 232);">
-            <div class="col-md-2"><time><h5>11:30-12:30</h5> </time></div>
-            <div class="col-md-10">
-              <h5><b>Technical Session 2 (Collaborative Private Computation)</b></h5>
-              <div class="row">
-                <div class="col">
-                  <h4><i>Finding Stable Clusters over Generic, Heterogeneous Data: Method and Applications</i></h4>
-                </div>
-                <div class="col">
-                  <div style="float:left"><h4> Prof. Anthony Tung (National University of Singapore)</h4></div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col">
-                  <h4><i>Curious or Malicious: Towards Different Security Levels in Privacy-preserving Computation</i></h4>
-                </div>
-                <div class="col">
-                  <div style="float:left"><h4> Dr. Song Xiangfu (National University of Singapore)</h4></div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col">
-                  <h4><i>Towards Trustworthy Human-Centered Explainable AI</i></h4>
-                </div>
-                <div class="col">
-                  <div style="float:left"><h4> Prof. Brian Lim (National University of Singapore)</h4></div>
-                </div>
-              </div>
-              <!-- <h4><b>Talk 1</b>: <i>Finding Stable Clusters over Generic, Heterogeneous Data: Method and Applications</i> - Prof. Anthony Tung (National University of Singapore)</h4> -->
-              <!-- <h4><b>Talk 2</b>: <i>Title</i> - Dr. Song Xiangfu (National University of Singapore)</h4> -->
-              <!-- <h4><b>Talk 3</b>: <i>Title</i> - Prof. Brian Y. Lim (National University of Singapore) </h4> -->
-            </div>
-          </div>
-            
-
-          <div class="row schedule-item">
-            <div class="col-md-2"><time><h5>12:30-13:30</h5></time></div>
-            <div class="col-md-10">
-              <h5><b>Lunch Break</b></h5>
-              <!-- <h4>Prof. Nasir Memon</h4> -->
-            </div>
-          </div>
-
-          <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
-            <div class="col-md-2">
-              <time><br><h5>13:30-13:45</h5> </time>
-            </div>
-            <div class="col-md-10">
-              <h5><b>The Future & Challenges of Digital Trust </b></h5>
-              <div class="row">
-                <div class="col">
-                  <h4><i>Introduction to the National Digital Trust Centre</i></h4>
-                </div>
-                <div class="col">
-                  <div style="float:left"><h4> Prof. Lam Kwok Yan (Nanyang Technological University)</h4></div>
-                </div>
-              </div>
-              <!-- <h4><i>Title</i> - Prof. Lam Kwok Yan (Nanyang Technological University)</i></h4> -->
-            </div>
-          </div>
-
-          <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
-            <div class="col-md-2">
-              <time><h5>13:45-14:30</h5> </time>
-            </div>
-            <div class="col-md-10">
-              <h5><b>Panel Discussion</b></h5>
-              <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-1">
-                  <h4> <i>Moderator</i></h4>
-                </div>
-                <div class="col-md-1"></div>
-                <div class="col">
-                  <div style="float:left"><h4> Prof. Mohan Kankanhalli (Director, N-CRiPT)</h4></div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-1">
-                  <h4><i>Panel</i></h4>
-                </div>
-                <div class="col-md-1"></div>
-                <div class="col">
-                  
-                  <div style="float:left"><h4> Prof. Lam Kwok Yan (Nanyang Technological University)</h4></div>
-                  
-                  <br>
-                  <div style="float:left"><h4>Prof. Robert Deng (Singapore Management University)</h4></div>
-          
-                  <br>
-                  <div style="float:left"><h4>Prof. Geng Weidong (Zhejiang University)</h4></div>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="row schedule-item">
-            <div class="col-md-2"><time><h5>14:30-15:15</h5> </time></div>
-            <div class="col-md-10">
-              <h5><b>Poster Session & Tea Break</b></h5>
-            </div>
-          </div>
-            
-            <div class="row schedule-item" style="background-color: rgb(229, 246, 232);">
-              <div class="col-md-2"><time><h5>15:15-16:15</h5> </time></div>
-              <div class="col-md-10">
-                <h5><b>Technical Session 3 (Privacy-Aware Data Sensing & Gathering Platform)</b></h5>
-                <div class="row">
-                  <div class="col">
-                    <h4><i>Vision-and-Language Research: Towards Universal Multimodal Intelligence</i></h4>
-                  </div>
-                  <div class="col">
-                    <div style="float:left"><h4> Dr. Li Junnan (Salesforce Research Asia)</h4></div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col">
-                    <h4><i>Combining Common Knowledge with Deep Learning Models</i></h4>
-                  </div>
-                  <div class="col">
-                    <div style="float:left"><h4> Xu Ziwei (National University of Singapore)</h4></div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col">
-                    <h4><i>Collaborative Split Learning Framework for Smart Grid Load Forecasting</i></h4>
-                  </div>
-                  <div class="col">
-                    <div style="float:left"><h4> Dr. Asif Iqbal (National University of Singapore)</h4></div>
-                  </div>
-                </div>
-                <!-- <h4><b>Talk 1</b>: <i>Language-and-vision Research and Applications</i> - Dr. Li Junnan (Salesforce Research Asia)</h4> -->
-                <!-- <h4><b>Talk 2</b>: <i>ML with Symbolic Knowledge</i> - Dr. Xu Ziwei (National University of Singapore) </h4> -->
-                <!-- <h4><b>Talk 3</b>: <i>Title</i> - Speaker</h4> -->
-              </div>
-            </div>
-
-            <div class="row schedule-item" style="background-color: rgb(253, 253, 189);">
-              <div class="col-md-2"><time><h5>16:15-17:00 </h5></time></div>
-              <div class="col-md-10">
-                <h5><b>Invited Talk 2</b></h5>
-                <div class="row">
-                  <div class="col">
-                    <h4><i>Towards Trustworthy Perception for Intelligent Machines</i></h4>
-                  </div>
-                  <div class="col">
-                    <div style="float:left"><h4> Prof. Yang Yi (Zhejiang University)</h4></div>
-                  </div>
-                </div>
-                <!-- <h4><i>Towards Trustworthy Perception for Intelligent Machines</i> - Prof. Yi Yang (Zhejiang University)</h4> -->
-              </div>
-            </div>
-            
-            <div class="row schedule-item">
-              <div class="col-md-2"><time><h5>17:00-17:10</h5> </time></div>
-              <div class="col-md-10">
-                <h5><b>Closing Remarks</b></h5>
-                <h4>Prof. Anthony Tung (Deputy Director, N-CRiPT)</h4>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time><h5>17:10</h5> </time></div>
-              <div class="col-md-10">
-                <h5><b>Workshop Dinner</b></h5>
-                <h4>Venue: <a href="https://goo.gl/maps/irEVSUyGuDwbxU9XA">Peppermint</a>, Level 4 PARKROYAL COLLECTION Marina Bay, Singapore 039594</h4>
-              </div>
-            </div>
-            
+        <div id="cifar10-cifar10-ALF" class="row">
+          <center><h3><u>Performance Evaluated via SLF</u></h3></center>
+        </div>
+        <div class="row schedule-item" >
+          <div class="col-md-1"><h5><center>Rank</center></h5></div>
+          <div class="col-md-4"><h5><center><b>Paper</b></center></h5></div>
+          <!-- <div class="col-md-1"><h5><center><b>Venue</b></center></h5></div> -->
+          <div class="col-md-1"><h5><center><b>RA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>CA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>SA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>RA <br> (AutoLoRa)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>CA <br> (AutoLoRa)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>SA <br> (AutoLoRa)</b></center></h5></div>
         </div>
 
+
+        <div id="cifar10-cifar10-AFF" class="row">
+          <center><h3><u>Performance Evaluated via AFF</u></h3></center>
+        </div>
+        <div class="row schedule-item" >
+          <div class="col-md-1"><h5><center>Rank</center></h5></div>
+          <div class="col-md-4"><h5><center><b>Paper</b></center></h5></div>
+          <!-- <div class="col-md-1"><h5><center><b>Venue</b></center></h5></div> -->
+          <div class="col-md-1"><h5><center><b>RA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>CA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>SA <br> (Vanilla)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>RA <br> (AutoLoRa)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>CA <br> (AutoLoRa)</b></center></h5></div>
+          <div class="col-md-1"><h5><center><b>SA <br> (AutoLoRa)</b></center></h5></div>
+        </div>
+      </div>
     </section><!-- End Schedule Section -->
     
-    <!-- ======= Contact Section ======= -->
-    <section id="venue" class="contact">
-      <div class="container">
-
-        <div class="section-title" data-aos="zoom-in">
-          <h2>Workshop Venue</h2>
-          <h3><span>Date: </span> April 20th, 2023</h3>
-          <h3><span>Venue: </span>Level 1@Della & Seng Gee Guild Hall, NUSS Kent Ridge Guild House, <br> 9 Kent Ridge Dr, Singapore 11924</h3>
-          <!-- <h3><span>E-mail: </span> ang.jy@nus.edu.sg</h3> -->
-          <!-- <h3><span>N-CRiPT homepage: </span>  https://ncript.comp.nus.edu.sg/</h3> -->
-        </div>
-
-        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=NUSS%20Kent%20Ridge%20Guild%20House+(Venue)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">measure acres/hectares on map</a></iframe></div>
-
-      </div>
-    </section><!-- End Contact Section -->
 
      <!-- ======= Contact Section ======= -->
      <section id="contact" class="contact">
@@ -410,8 +212,8 @@
           <h2>Contact</h2>
           <!-- <h3><span>Time: </span> April 20th, 2023</h3> -->
           <!-- <h3><span>Venue: </span> NUSS Kent Ridge Guild House, 9 Kent Ridge Dr, Singapore 11924</h3> -->
-          <h3><span>E-mail: </span> ang.jy@nus.edu.sg</h3>
-          <h3><span>N-CRiPT homepage: </span>  https://ncript.comp.nus.edu.sg/</h3>
+          <h3><span>E-mail: </span> xuxilie@comp.nus.edu.sg</h3>
+          <h3><span>GitHub: </span> <a href="https://github.com/GodXuxilie/ACL_Benchmark"> https://github.com/GodXuxilie/ACL_Benchmark </a> </h3>
         </div>
       </div>
     </section><!-- End Contact Section -->
