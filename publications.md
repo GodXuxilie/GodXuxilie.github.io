@@ -32,7 +32,8 @@ Overall, my research works lie in the following three categories: <br/>
 - <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th Annual Conference on Neural Information Processing Systems*](https://neurips.cc/Conferences/2023) *(NeurIPS 2023)*, New Orleans, 2023. 
-<br/> [[PDF]](https://arxiv.org/pdf/2302.03857.pdf) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark/tree/main/ACL_Methods/RCS_nips23) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:E_wpy3GVQbYJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkq7I:AFWwaeYAAAAAZRFis7KReHcROHAYnWoiV6gvx6Y&scisig=AFWwaeYAAAAAZRFisyCipyX6BVfYxxDG9kfCWu0&scisf=4&ct=citation&cd=-1&hl=en) [**Spotlight**]
+<br/> [[PDF]](https://arxiv.org/pdf/2302.03857.pdf) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark/tree/main/ACL_Methods/RCS_nips23) [**Spotlight**]
+<!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:E_wpy3GVQbYJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkq7I:AFWwaeYAAAAAZRFis7KReHcROHAYnWoiV6gvx6Y&scisig=AFWwaeYAAAAAZRFisyCipyX6BVfYxxDG9kfCWu0&scisf=4&ct=citation&cd=-1&hl=en) -->
 
 - <span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
@@ -41,23 +42,27 @@ Overall, my research works lie in the following three categories: <br/>
 
 - <span id="ICML22">Adversarial Attack and Defense for Non-Parametric Two-Sample Tests.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
-<br/> [*39th International Conference on Machine Learning*](https://icml.cc/Conferences/2022) *(ICML 2022)*, Baltimore, 2022. <br/> [[PDF]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[Code]](https://github.com/GodXuxilie/Robust-TST) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:2g1wRPv3Id4J:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkYEA:AFWwaeYAAAAAZRFieEDgzxiUY3BXxqs_xZL1MgE&scisig=AFWwaeYAAAAAZRFieI9pa-Q3utJ9CQwwgSiJ31I&scisf=4&ct=citation&cd=-1&hl=en)
+<br/> [*39th International Conference on Machine Learning*](https://icml.cc/Conferences/2022) *(ICML 2022)*, Baltimore, 2022. <br/> [[PDF]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[Code]](https://github.com/GodXuxilie/Robust-TST) 
+<!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:2g1wRPv3Id4J:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkYEA:AFWwaeYAAAAAZRFieEDgzxiUY3BXxqs_xZL1MgE&scisig=AFWwaeYAAAAAZRFieI9pa-Q3utJ9CQwwgSiJ31I&scisf=4&ct=citation&cd=-1&hl=en) -->
 
 - <span id="TMLR22">NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels. </span> 
 <br> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Tongliang Liu, Lizhen Cui, Gang Niu, Masashi Sugiyama. 
 <br/> [*Transactions on Machine Learning Research*](https://jmlr.org/tmlr/) *(TMLR 2022)*. 
-<br/> [[PDF]](https://openreview.net/pdf?id=zlQXV7xtZs) [[Code]](https://github.com/zjfheart/NoiLIn) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XgdVUPGCD5oJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkfhk:AFWwaeYAAAAAZRFiZhm0iLKjrkkSgMZj9OXzurs&scisig=AFWwaeYAAAAAZRFiZtcATe8SWP8hwQHf88b1n-E&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+<br/> [[PDF]](https://openreview.net/pdf?id=zlQXV7xtZs) [[Code]](https://github.com/zjfheart/NoiLIn) 
+<!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XgdVUPGCD5oJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkfhk:AFWwaeYAAAAAZRFiZhm0iLKjrkkSgMZj9OXzurs&scisig=AFWwaeYAAAAAZRFiZtcATe8SWP8hwQHf88b1n-E&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) -->
 
 
 - <span id="TDSC22">Decision Boundary-aware Data Augmentation for Adversarial Training.</span> 
 <br> Chen Chen\*, Jingfeng Zhang\*, **Xilie Xu**, Lingjuan Lyu, Chaochao Chen, Tianlei Hu, Gang Chen. 
 <br/> [*IEEE Transactions on Dependable and Secure Computing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) *(TDSC 2022)*. 
-<br/> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9754227) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZJT4e3wdL3YJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkUgk:AFWwaeYAAAAAZRFiSgk8vu679Kz5vSH7IboyCFA&scisig=AFWwaeYAAAAAZRFiSk7NLwlZHp3poWY2WEnqIqs&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+<br/> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9754227) 
+<!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZJT4e3wdL3YJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkUgk:AFWwaeYAAAAAZRFiSgk8vu679Kz5vSH7IboyCFA&scisig=AFWwaeYAAAAAZRFiSk7NLwlZHp3poWY2WEnqIqs&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) -->
 
 
 - <span id="ICML20">Attacks Which Do Not Kill Training Make Adversarial Learning Stronger.</span> 
 <br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli. 
-<br/> [*37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2022)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZV_a5WLALAEJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkCUQ:AFWwaeYAAAAAZRFiEUTG2oLZn2W5XLkSdws1DXM&scisig=AFWwaeYAAAAAZRFiET8IWpCGzhK4DGqoMdS7mXI&scisf=4&ct=citation&cd=-1&hl=en)
+<br/> [*37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2022)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) 
+<!-- [[BibTeX]]() -->
 
 
 
