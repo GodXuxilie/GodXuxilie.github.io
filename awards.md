@@ -18,5 +18,6 @@ title: Service
 
 
 ## Teaching Assistant
-- CS5242 Deep Learning and Neural Networks, Semester 2, AY21-22, SoC, NUS.
 - CS3244 Machine Learning, Semester 1, AY23-24, SoC, NUS.
+- CS5242 Deep Learning and Neural Networks, Semester 2, AY21-22, SoC, NUS.
+
