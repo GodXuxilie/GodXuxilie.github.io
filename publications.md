@@ -32,13 +32,13 @@ Overall, my research works lie in the following three categories: <br/>
 - <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th Annual Conference on Neural Information Processing Systems*](https://neurips.cc/Conferences/2023) *(NeurIPS 2023)*, New Orleans, 2023. 
-<br/> [[PDF]](https://arxiv.org/pdf/2302.03857.pdf) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark/tree/main/ACL_Methods/RCS_nips23) [**Spotlight**]
+<br/> [[PDF]](https://arxiv.org/pdf/2302.03857.pdf) [[Code]](https://github.com/GodXuxilie/Efficient_ACL_via_RCS) [**Spotlight**]
 <!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:E_wpy3GVQbYJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkq7I:AFWwaeYAAAAAZRFis7KReHcROHAYnWoiV6gvx6Y&scisig=AFWwaeYAAAAAZRFisyCipyX6BVfYxxDG9kfCWu0&scisf=4&ct=citation&cd=-1&hl=en) -->
 
 - <span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th Annual Conference on Neural Information Processing Systems*](https://neurips.cc/Conferences/2023) *(NeurIPS 2023)*, New Orleans, 2023. 
-<br/> [[PDF]](https://arxiv.org/pdf/2305.00374.pdf) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark/tree/main/ACL_Methods/IR_nips2023) 
+<br/> [[PDF]](https://arxiv.org/pdf/2305.00374.pdf) [[Code]](https://github.com/GodXuxilie/Enhancing_ACL_via_AIR) 
 <!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:OluEdScbo14J:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkhpk:AFWwaeYAAAAAZRFinplfA6oeNQMV6GB6ciligwg&scisig=AFWwaeYAAAAAZRFinrFEeKoc-BMy_xfCVD0W_W4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) -->
 
 - <span id="ICML22">Adversarial Attack and Defense for Non-Parametric Two-Sample Tests.</span> 
