@@ -15,7 +15,7 @@ I am a third-year (Aug. 2021-present) PhD student in [School of Computing](https
 
 
 ## News
-- October 2023: We released [RobustSSL Benchmark](https://robustssl.github.io): a benchmark for robustness transferability of robust self-supervised learning!
+- October 2023: We are glad to release [RobustSSL Benchmark](https://robustssl.github.io): a benchmark for robustness transferability of robust self-supervised learning!
 - September 2023: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
 - September 2023: I was invited as a reviewer for ICLR'24.
 - August 2023: I gave a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23, Shanghai, China.
