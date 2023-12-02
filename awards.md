@@ -20,8 +20,8 @@ title: Service
 
 
 ## Teaching Assistant
-- CS5342 Multimedia Computing and Applications, Semester 2, AY23-24, SoC, NUS.
-- CS3244 Machine Learning, Semester 2, AY23-24, SoC, NUS.
-- CS3244 Machine Learning, Semester 1, AY23-24, SoC, NUS.
-- CS5242 Deep Learning and Neural Networks, Semester 2, AY21-22, SoC, NUS.
+- CS5342 Multimedia Computing and Applications by Prof. Mohan Kankanhalli, Semester 2, AY23-24, SoC, NUS.
+- CS3244 Machine Learning by Prof. Xavier Bresson, Semester 2, AY23-24, SoC, NUS.
+- CS3244 Machine Learning by Prof. Brian Lim and Prof. Xavier Bresson, Semester 1, AY23-24, SoC, NUS.
+- CS5242 Deep Learning and Neural Networks by Dr. Lee Hwee Kuan, Semester 2, AY21-22, SoC, NUS.
 

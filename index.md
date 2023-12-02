@@ -11,7 +11,6 @@ I am a third-year (Aug. 2021-present) PhD student at [the School of Computing](h
 <br/>
 *I am looking for a <u>research intern</u> position in 2024. Please feel free to drop me an email (xuxilie@comp.nus.edu.sg) if there is an interest!*​​​​
 
-
 ## News
 - December 2023: I will attend NeurIPS 2023 conference at New Orleans, US. See you there! Welcome to our [Spotlight Poster](https://nips.cc/virtual/2023/poster/70886) and [Poster](https://nips.cc/virtual/2023/poster/69867)!
 - December 2023: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on [Zhihu (知乎)](https://zhuanlan.zhihu.com/p/669541942)! 欢迎大家关注点赞👍！
