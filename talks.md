@@ -7,7 +7,6 @@ title: Talk
 ## Invited Talk
 - Towards Building Robust Foundation Models. <br/> 28 November 2023, *[N-CRiPT]((https://ncript.comp.nus.edu.sg/)) Seminar*, NUS, Singapore. <br/> [[Slides]](/file/talk/N-CRiPT_seminar_Xilie_Xu.pdf)
 
-
 - Towards Effective and Efficient Self-Supervised Robust Pre-training. <br/> 26 August 2023, [*1st International Conference on AI-generated Content*](https://icaigc.org/) *(AIGC 2023)*, Shanghai, China. <br/> [[Slides]](/file/talk/Slides_AIGC23_Aug_26th_Formal.pdf) [[Certification]](/file/Certificate%20of%20invited%20speaker-Dr.%20XIlie%20Xu.pdf) 
 
 ## Conference Presentation
