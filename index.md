@@ -12,11 +12,10 @@ I am a third-year (Aug. 2021-present) PhD student in [School of Computing](https
 *I am looking for a <u>research intern</u> position in 2024. Please feel free to drop me an email (xuxilie@comp.nus.edu.sg) if there is an interest!*​​​​
 
 
-
-
-
-
 ## News
+- December 2023: I will attend NeurIPS 2023 conference at New Orleans, US. See you there! Welcome to our [Spotlight Poster](https://nips.cc/virtual/2023/poster/70886) and [Poster](https://nips.cc/virtual/2023/poster/69867)!
+- December 2023: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on [Zhihu](https://zhuanlan.zhihu.com/p/669541942)!
+- November 2023: I gave a talk as "Towards Building Robust Foundation Models" at [N-CRiPT](https://ncript.comp.nus.edu.sg/) Seminar. 
 - October 2023: We are glad to release [RobustSSL Benchmark](https://robustssl.github.io): a benchmark for robustness transferability of robust self-supervised learning (RobustSSL)!
 - September 2023: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
 - September 2023: I was invited as a reviewer for ICLR'24.

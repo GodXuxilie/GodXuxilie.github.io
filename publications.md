@@ -9,9 +9,9 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing and utilizing adversarially robust foundation models**: [[Preprint'23a]](#autoRFT) [[NeurIPS23a, *Spotlight*]](#NIPS23a), [[NeurIPS23b]](#NIPS23b). <br/>
-**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[Preprint'23b]](#promptattack) [[ICML22]](#ICML22). <br/>
-**(3) Towards enhancing supervised adversarial training**: [[TMLR22]](#TMLR22), [[TDSC22]](#TDSC22), [[ICML20]](#ICML20).
+**(1) Towards developing and utilizing adversarially robust foundation models**: [[Preprint'23a]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
+**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[Preprint'23b]](#promptattack) [[ICML'22]](#ICML22). <br/>
+**(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
@@ -32,13 +32,13 @@ Overall, my research works lie in the following three categories: <br/>
 - <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th Annual Conference on Neural Information Processing Systems*](https://neurips.cc/Conferences/2023) *(NeurIPS 2023)*, New Orleans, 2023. 
-<br/> [[PDF]](https://arxiv.org/pdf/2302.03857.pdf) [[Code]](https://github.com/GodXuxilie/Efficient_ACL_via_RCS) [**Spotlight**]
+<br/> [[PDF]](https://arxiv.org/pdf/2302.03857.pdf) [[Code]](https://github.com/GodXuxilie/Efficient_ACL_via_RCS) [[Poster]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/70886.png?t=1701436495.3604662) [**Spotlight**]
 <!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:E_wpy3GVQbYJ:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkq7I:AFWwaeYAAAAAZRFis7KReHcROHAYnWoiV6gvx6Y&scisig=AFWwaeYAAAAAZRFisyCipyX6BVfYxxDG9kfCWu0&scisf=4&ct=citation&cd=-1&hl=en) -->
 
 - <span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th Annual Conference on Neural Information Processing Systems*](https://neurips.cc/Conferences/2023) *(NeurIPS 2023)*, New Orleans, 2023. 
-<br/> [[PDF]](https://arxiv.org/pdf/2305.00374.pdf) [[Code]](https://github.com/GodXuxilie/Enhancing_ACL_via_AIR) 
+<br/> [[PDF]](https://arxiv.org/pdf/2305.00374.pdf) [[Code]](https://github.com/GodXuxilie/Enhancing_ACL_via_AIR) [[Poster]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/69867.png?t=1701436551.2570322)
 <!-- [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:OluEdScbo14J:scholar.google.com/&output=citation&scisdr=ClE57TOnEJa_oLlkhpk:AFWwaeYAAAAAZRFinplfA6oeNQMV6GB6ciligwg&scisig=AFWwaeYAAAAAZRFinrFEeKoc-BMy_xfCVD0W_W4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) -->
 
 - <span id="ICML22">Adversarial Attack and Defense for Non-Parametric Two-Sample Tests.</span> 
@@ -64,6 +64,3 @@ Overall, my research works lie in the following three categories: <br/>
 <br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2022)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) 
 <!-- [[BibTeX]]() -->
-
-
-
