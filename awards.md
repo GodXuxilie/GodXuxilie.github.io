@@ -11,7 +11,8 @@ title: Service
 
 
 ## Award
-- Research Incentive Award, SoC, NUS, Oct 2023.
+- NeurIPS 2023 Scholar Award, NeurIPS, October 2023.
+- Research Incentive Award, SoC, NUS, October 2023.
 - Research Achievement Award, SoC, NUS, 2022.
 - ICML 2022 Participation Grant, ICML, July 2022.
 - [Outstanding Reviewer Award](https://nips.cc/Conferences/2021/ProgramCommittee), NeurIPS, 2021.
