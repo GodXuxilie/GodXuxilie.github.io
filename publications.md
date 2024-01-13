@@ -65,7 +65,7 @@ Overall, my research works lie in the following three categories: <br/>
 <br/> [*37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2022)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) 
 <!-- [[BibTeX]]() -->
 
-# Workshop Paper
+## Workshop Paper
 - <span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> 
 <br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br> *Workshop on Responsible Language Models, 2024.*
