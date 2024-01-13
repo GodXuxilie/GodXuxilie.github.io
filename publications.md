@@ -10,7 +10,7 @@ title: Research
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
 **(1) Towards developing and utilizing adversarially robust foundation models**: [[Preprint'23a]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
-**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[Preprint'23b]](#promptattack) [[ICML'22]](#ICML22). <br/>
+**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [AAAI'24 Workshop](#AAAI24_ReLM), [[Preprint'23b]](#promptattack) [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
@@ -64,3 +64,9 @@ Overall, my research works lie in the following three categories: <br/>
 <br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2022)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) 
 <!-- [[BibTeX]]() -->
+
+# Workshop Paper
+- <span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> 
+<br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
+<br> *Workshop on Responsible Language Models, 2024.*
+<br/> [[PDF]]() [[Code]](https://github.com/GodXuxilie/PromptAttack)
