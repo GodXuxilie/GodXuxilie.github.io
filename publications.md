@@ -9,7 +9,7 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing and utilizing adversarially robust foundation models**: [[Preprint'23a]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
+**(1) Towards developing and utilizing adversarially robust foundation models**: [[Preprint'23]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
@@ -18,7 +18,7 @@ Overall, my research works lie in the following three categories: <br/>
 ## Preprint
 - <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
 <br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
-<br/> *Preprint'23a.*
+<br/> *Preprint'23.*
 <br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark)
 
 <!-- - <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
