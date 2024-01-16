@@ -37,12 +37,12 @@ Overall, my research works lie in the following three categories: <br/>
 - <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
 <br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
-<br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) 
+<br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) [[Project Page]](https://godxuxilie.github.io/project_page/prompt_attack)
 
 - <span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> 
 <br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br> *AAAI Workshop on Responsible Language Models, Vancouver, Canada, 2024.*
-<br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) [[Project Page]](https://godxuxilie.github.io/project_page/prompt_attack)
+<br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) 
 
 - <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
