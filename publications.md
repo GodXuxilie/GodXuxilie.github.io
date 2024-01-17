@@ -77,6 +77,6 @@ Overall, my research works lie in the following three categories: <br/>
 
 - <span id="ICML20">Attacks Which Do Not Kill Training Make Adversarial Learning Stronger.</span> 
 <br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli. 
-<br/> [*The 37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2022)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) 
+<br/> [*The 37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2020)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) 
 <!-- [[BibTeX]]() -->
 
