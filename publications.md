@@ -41,7 +41,7 @@ Overall, my research works lie in the following three categories: <br/>
 
 - <span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> 
 <br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
-<br> *AAAI Workshop on Responsible Language Models, Vancouver, Canada, 2024.*
+<br> [*AAAI Workshop on Responsible Language Models*](https://sites.google.com/vectorinstitute.ai/relm2024/home), Vancouver, Canada, 2024.
 <br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) 
 
 - <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
