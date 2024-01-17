@@ -35,7 +35,7 @@ Overall, my research works lie in the following three categories: <br/>
 <br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark)
 
 - <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
-<br/> **Xilie Xu**, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
+<br/> **Xilie Xu**\*, Keyi Kong\*, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
 <br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) [[Project Page]](https://godxuxilie.github.io/project_page/prompt_attack)
 
