@@ -16,57 +16,51 @@ Overall, my research works lie in the following three categories: <br/>
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
 ## Preprint\&Workshop Paper
-1\. <span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> 
+1. <span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> 
 <br/> **Xilie Xu**\*, Keyi Kong\*, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br> [*AAAI Workshop on Responsible Language Models*](https://sites.google.com/vectorinstitute.ai/relm2024/home), Vancouver, Canada, 2024.
 <br/> [[PDF]]() [[Code]](https://github.com/GodXuxilie/PromptAttack) 
 
 
 ## Publication
-(\* refers to equal contributions) <br/> <br/>
-8\. <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
+(\* refers to equal contributions) 
+
+8. <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
 <br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
 <br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
 <br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark) 
-<br/>
-<br/>
-7\. <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
+
+7. <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
 <br/> **Xilie Xu**\*, Keyi Kong\*, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
 <br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) [[Project Page]](https://godxuxilie.github.io/project_page/prompt_attack)
-<br/>
-<br/>
-6\. <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
+
+6. <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*The 37th Annual Conference on Neural Information Processing Systems*](https://neurips.cc/Conferences/2023) *(NeurIPS 2023)*, New Orleans, US, 2023. 
 <br/> [[PDF]](https://arxiv.org/pdf/2302.03857.pdf) [[Code]](https://github.com/GodXuxilie/Efficient_ACL_via_RCS) [[Poster]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/70886.png?t=1701436495.3604662) [[知乎 (Chinese Quora)]](https://zhuanlan.zhihu.com/p/669541942) [**Spotlight**]
-<br/>
-<br/>
-5\. <span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> 
+
+5. <span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*The 37th Annual Conference on Neural Information Processing Systems*](https://neurips.cc/Conferences/2023) *(NeurIPS 2023)*, New Orleans, US, 2023. 
 <br/> [[PDF]](https://arxiv.org/pdf/2305.00374.pdf) [[Code]](https://github.com/GodXuxilie/Enhancing_ACL_via_AIR) [[Poster]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/69867.png?t=1701436551.2570322) [[Project Page]](https://robustssl.github.io/) 
-<br/>
-<br/>
-4\. <span id="ICML22">Adversarial Attack and Defense for Non-Parametric Two-Sample Tests.</span> 
+
+4. <span id="ICML22">Adversarial Attack and Defense for Non-Parametric Two-Sample Tests.</span> 
 <br/> **Xilie Xu\***, Jingfeng Zhang\*, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*The 39th International Conference on Machine Learning*](https://icml.cc/Conferences/2022) *(ICML 2022)*, Baltimore, US, 2022. <br/> [[PDF]](https://proceedings.mlr.press/v162/xu22m/xu22m.pdf) [[Code]](https://github.com/GodXuxilie/Robust-TST)
-<br/>
-<br/>
-3\. <span id="TMLR22">NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels. </span> 
+
+3. <span id="TMLR22">NoiLin: Improving Adversarial Training and Correcting Stereotype of Noisy Labels. </span> 
 <br> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Tongliang Liu, Lizhen Cui, Gang Niu, Masashi Sugiyama. 
 <br/> [*Transactions on Machine Learning Research*](https://jmlr.org/tmlr/) *(TMLR 2022)*. 
 <br/> [[PDF]](https://openreview.net/pdf?id=zlQXV7xtZs) [[Code]](https://github.com/zjfheart/NoiLIn) 
-<br/>
-<br/>
-2\. <span id="TDSC22">Decision Boundary-aware Data Augmentation for Adversarial Training.</span> 
+
+2. <span id="TDSC22">Decision Boundary-aware Data Augmentation for Adversarial Training.</span> 
 <br> Chen Chen\*, Jingfeng Zhang\*, **Xilie Xu**, Lingjuan Lyu, Chaochao Chen, Tianlei Hu, Gang Chen. 
 <br/> [*IEEE Transactions on Dependable and Secure Computing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) *(TDSC 2022)*. 
 <br/> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9754227)
-<br/>
-<br/>
-1\. <span id="ICML20">Attacks Which Do Not Kill Training Make Adversarial Learning Stronger.</span> 
+
+1. <span id="ICML20">Attacks Which Do Not Kill Training Make Adversarial Learning Stronger.</span> 
 <br/> Jingfeng Zhang\*, **Xilie Xu\***, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli. 
 <br/> [*The 37th International Conference on Machine Learning*](https://icml.cc/Conferences/2020) *(ICML 2020)*, Online, 2020.  <br/> [[PDF]](https://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf) [[Code]](https://github.com/zjfheart/Friendly-Adversarial-Training) <br/>
-<!-- [[BibTeX]]() -->
+
 
