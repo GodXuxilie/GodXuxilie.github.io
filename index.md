@@ -12,7 +12,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 *I am looking for a <u>research intern</u> position in 2024. Please feel free to drop me an email (xuxilie@comp.nus.edu.sg) if there is an interest!*​​​​
 
 ## News
-- January 2024: Two papers---both [AutoLoRa](https://arxiv.org/abs/2310.01818) and [PromptAttack](https://godxuxilie.github.io/project_page/prompt_attack), were accepted by ICLR'24! 
+- January 2024: Two papers---both [AutoLoRa](https://arxiv.org/abs/2310.01818) and [PromptAttack](https://godxuxilie.github.io/project_page/prompt_attack), were accepted by ICLR'24! Congratulations to Keyi!
 - December 2023: Our [PromptAttack](https://godxuxilie.github.io/project_page/prompt_attack) which can effectively and efficiently evaluate the LLM's adversarial robustness was accepted by [AAAI'24 Workshop on Responsible Language Models](https://sites.google.com/vectorinstitute.ai/relm2024/home)!
 - December 2023: I was invited as a reviewer for ICML'24.
 - December 2023: I will attend NeurIPS 2023 conference at New Orleans, US. See you there! Welcome to check our [Spotlight Poster](https://nips.cc/virtual/2023/poster/70886) and [Poster](https://nips.cc/virtual/2023/poster/69867)!
