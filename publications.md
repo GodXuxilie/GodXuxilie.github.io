@@ -9,8 +9,8 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing and utilizing adversarially robust foundation models**: [[ICLR'24]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
-**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICLR'24]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
+**(1) Towards developing and utilizing adversarially robust foundation models**: [[ICLR'24a]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
+**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICLR'24b]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
@@ -27,16 +27,16 @@ Overall, my research works lie in the following three categories: <br/>
 (\* refers to equal contributions) 
 <br/>
 <br/>
-8\. <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
-<br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
-<br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
-<br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark) 
-<br/>
-<br/>
-7\. <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
+8\. <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
 <br/> **Xilie Xu**\*, Keyi Kong\*, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
 <br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) [[Project Page]](https://godxuxilie.github.io/project_page/prompt_attack)
+<br/>
+<br/>
+7\. <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
+<br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
+<br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
+<br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark) 
 <br/>
 <br/>
 6\. <span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> 
