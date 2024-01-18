@@ -15,7 +15,7 @@ Overall, my research works lie in the following three categories: <br/>
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
-## Preprint\&Workshop Paper
+## Preprint&Workshop Paper
 1. <span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> 
 <br/> **Xilie Xu**\*, Keyi Kong\*, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
 <br> [*AAAI Workshop on Responsible Language Models*](https://sites.google.com/vectorinstitute.ai/relm2024/home), Vancouver, Canada, 2024.
@@ -25,10 +25,10 @@ Overall, my research works lie in the following three categories: <br/>
 ## Publication
 (\* refers to equal contributions) 
 
-8. <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
-<br/> **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. 
-<br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
-<br/> [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark) 
+8\. <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> <br/>
+&emsp; **Xilie Xu**, Jingfeng Zhang, Mohan Kankanhalli. <br/>
+&emsp; [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.<br/>
+&emsp; [[PDF]](https://arxiv.org/abs/2310.01818) [[Code]](https://github.com/GodXuxilie/RobustSSL_Benchmark) 
 
 7. <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
 <br/> **Xilie Xu**\*, Keyi Kong\*, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
