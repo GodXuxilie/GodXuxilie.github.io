@@ -17,24 +17,36 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 [Jan 2024]: Two papers---both <a href="https://arxiv.org/abs/2310.01818">AutoLoRa</a> and <a href="https://godxuxilie.github.io/project_page/prompt_attack">PromptAttack</a>, were accepted by ICLR'24! Congratulations to Keyi!
 </li>
 <li>
-Our <a href="https://godxuxilie.github.io/project_page/prompt_attack">PromptAttack</a> was accepted by <a href="https://sites.google.com/vectorinstitute.ai/relm2024/home">AAAI'24 Workshop on Responsible Language Models</a>!
+[Dec 2023]: Our <a href="https://godxuxilie.github.io/project_page/prompt_attack">PromptAttack</a> was accepted by <a href="https://sites.google.com/vectorinstitute.ai/relm2024/home">AAAI'24 Workshop on Responsible Language Models</a>!
 </li>
 <li>
 [Dec 2023]: I was invited as a reviewer for ICML'24.
 </li>
+<li>
+[Dec 2023]: I will attend NeurIPS 2023 conference at New Orleans, US. See you there! Welcome to check our <a href="https://nips.cc/virtual/2023/poster/70886">Spotlight Poster</a> and <a href="https://nips.cc/virtual/2023/poster/69867">Poster</a>!
+</li>
+<li>
+[Dec 2023]: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on <a href="https://zhuanlan.zhihu.com/p/669541942">知乎 (Chinese Quora)</a>! 欢迎大家关注点赞👍！An English version of the tutorial will come soon!
+</li>
+<li>
+[Nov 2023]: I gave a talk titled as "Towards Building Robust Foundation Models" at <a href="https://ncript.comp.nus.edu.sg/">N-CRiPT</a> Seminar, NUS. 
+</li>
+<li>
+[Oct 2023]: We are glad to release [RobustSSL Benchmark](https://robustssl.github.io): a benchmark for robustness transferability of robust self-supervised learning (RobustSSL)!
+</li>
+<li>
+[Sep 2023]: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
+</li>
+<li>
+[Sep 2023]: I was invited as a reviewer for ICLR'24.
+</li>
+<li>
+[Aug 2023]: I gave a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23, Shanghai, China.
+</li>
+<li>
+[Apr 2023]: I built the homepage of [N-CRiPT Technical Workshop 2023](https://ncript.comp.nus.edu.sg/site/ncript-workshop-2023/) and presented a [poster](/file/poster/NCRiPT_workshop_poster_Xu_Xilie.pdf) at the workshop.
+</li>
+<li>
+[Dec 2022]: I successfully passed the PhD Qualification Examination!
+</li>
 </ul>
-
-
-- 
-- [Dec 2023]: I will attend NeurIPS 2023 conference at New Orleans, US. See you there! Welcome to check our [Spotlight Poster](https://nips.cc/virtual/2023/poster/70886) and [Poster](https://nips.cc/virtual/2023/poster/69867)!
-- [Dec 2023]: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on [知乎 (Chinese Quora)](https://zhuanlan.zhihu.com/p/669541942)! 欢迎大家关注点赞👍！An English version of the tutorial will come soon!
-- [Nov 2023]: I gave a talk titled as "Towards Building Robust Foundation Models" at [N-CRiPT](https://ncript.comp.nus.edu.sg/) Seminar, NUS. 
-- [Oct 2023]: We are glad to release [RobustSSL Benchmark](https://robustssl.github.io): a benchmark for robustness transferability of robust self-supervised learning (RobustSSL)!
-- [Sep 2023]: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
-- [Sep 2023]: I was invited as a reviewer for ICLR'24.
-- [Aug 2023]: I gave a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23, Shanghai, China.
-- [Apr 2023]: I built the homepage of [N-CRiPT Technical Workshop 2023](https://ncript.comp.nus.edu.sg/site/ncript-workshop-2023/) and presented a [poster](/file/poster/NCRiPT_workshop_poster_Xu_Xilie.pdf) at the workshop.
-- [Dec 2022]: I successfully passed the PhD Qualification Examination!
-
-
-
