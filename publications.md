@@ -17,8 +17,8 @@ Overall, my research works lie in the following three categories: <br/>
 
 ## Preprint&Workshop Paper
 
-<ol list-style-type="lower-alpha">
-<li><span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> <br/> 
+<ol list-style-type="decimal">
+<li list-style-type="decimal"><span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> <br/> 
 <b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>AAAI Workshop on Responsible Language Models</i></a>, Vancouver, Canada, 2024.
 <br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>]</li>
