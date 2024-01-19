@@ -17,21 +17,28 @@ Overall, my research works lie in the following three categories: <br/>
 
 ## Preprint&Workshop Paper
 
-<ol>
+<ol list-style-type="lower-alpha">
 <li><span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> <br/> 
 <b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
-<a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>*AAAI Workshop on Responsible Language Models</i></a>, Vancouver, Canada, 2024.
-<br/> [<a href="">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>]</li>
+<a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>AAAI Workshop on Responsible Language Models</i></a>, Vancouver, Canada, 2024.
+<br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>]</li>
 </ol>
 
 ## Publication
 (\* refers to equal contributions) 
-<br/>
-<br/>
-8\. <span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span> 
-<br/> **Xilie Xu**\*, Keyi Kong\*, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. 
-<br/> [*The Twelfth International Conference on Learning Representations*](https://iclr.cc/Conferences/2024) *(ICLR 2024)*, Vienna, Austria, 2024.
-<br/> [[PDF]](https://arxiv.org/abs/2310.13345) [[Code]](https://github.com/GodXuxilie/PromptAttack) [[Project Page]](https://godxuxilie.github.io/project_page/prompt_attack)
+<ol>
+<li><span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span><br/> 
+<b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
+<a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>The Twelfth International Conference on Learning Representations</i></a> <i>(ICLR 2024)</i>, Vienna, Austria, 2024.
+<br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>][<a href="https://godxuxilie.github.io/project_page/prompt_attack">Project Page</a>]
+</li>
+<li><span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
+<b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
+<a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>The Twelfth International Conference on Learning Representations</i></a> <i>(ICLR 2024)</i>, Vienna, Austria, 2024.
+<br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>][<a href="https://godxuxilie.github.io/project_page/prompt_attack">Project Page</a>]
+</li>
+</ol>
+
 <br/>
 <br/>
 7\. <span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span> 
