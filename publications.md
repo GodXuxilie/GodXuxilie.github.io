@@ -17,7 +17,7 @@ Overall, my research works lie in the following three categories: <br/>
 
 ## Preprint&Workshop Paper
 
-<ol>
+<ol reversed>
 <li><span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> <br/> 
 <b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>AAAI Workshop on Responsible Language Models</i></a>, Vancouver, Canada, 2024.
@@ -26,7 +26,7 @@ Overall, my research works lie in the following three categories: <br/>
 
 ## Publication
 (\* refers to equal contributions) 
-<ol>
+<ol reversed>
 <li><span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span><br/> 
 <b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>The Twelfth International Conference on Learning Representations</i></a> <i>(ICLR 2024)</i>, Vienna, Austria, 2024.
