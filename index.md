@@ -32,7 +32,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 [Nov 2023]: I gave a talk titled as "Towards Building Robust Foundation Models" at <a href="https://ncript.comp.nus.edu.sg/">N-CRiPT</a> Seminar, NUS. 
 </li>
 <li>
-[Oct 2023]: We are glad to release [RobustSSL Benchmark](https://robustssl.github.io): a benchmark for robustness transferability of robust self-supervised learning (RobustSSL)!
+[Oct 2023]: We are glad to release <a href="https://robustssl.github.io">RobustSSL Benchmark</a>: a benchmark for robustness transferability of robust self-supervised learning (RobustSSL)!
 </li>
 <li>
 [Sep 2023]: Two papers regarding efficient and effective robust self-supervised pre-training were accepted by NeurIPS'23!
@@ -44,7 +44,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 [Aug 2023]: I gave a talk titled as "Towards Effective and Efficient Self-Supervised Robust Pre-training" at AIGC’23, Shanghai, China.
 </li>
 <li>
-[Apr 2023]: I built the homepage of [N-CRiPT Technical Workshop 2023](https://ncript.comp.nus.edu.sg/site/ncript-workshop-2023/) and presented a [poster](/file/poster/NCRiPT_workshop_poster_Xu_Xilie.pdf) at the workshop.
+[Apr 2023]: I built the homepage of <a href="https://ncript.comp.nus.edu.sg/site/ncript-workshop-2023/">N-CRiPT Technical Workshop 2023</a> and presented a <a href="/file/poster/NCRiPT_workshop_poster_Xu_Xilie.pdf">poster</a> at the workshop.
 </li>
 <li>
 [Dec 2022]: I successfully passed the PhD Qualification Examination!
