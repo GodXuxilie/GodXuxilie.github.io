@@ -40,7 +40,7 @@ Overall, my research works lie in the following three categories: <br/>
 <li><span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> <br/> 
 <b>Xilie Xu</b><sup>*</sup>, Jingfeng Zhang<sup>*</sup>, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br> 
 <a href="https://neurips.cc/Conferences/2023"><i>The 37th Annual Conference on Neural Information Processing Systems</i></a> <i>(NeurIPS 2023)</i>,  New Orleans, US, 2023. 
-<br/> [<a href="https://arxiv.org/pdf/2302.03857.pdf">PDF</a>] [<a href="https://github.com/GodXuxilie/Efficient_ACL_via_RCS">Code</a>] [<a href="https://nips.cc/media/PosterPDFs/NeurIPS%202023/70886.png?t=1701436495.3604662">Poster</a>] [<a href="https://zhuanlan.zhihu.com/p/669541942">知乎 (Chinese Quora)</a>] [<b>Spotlight</b>]
+<br/> [<a href="https://arxiv.org/pdf/2302.03857.pdf">PDF</a>] [<a href="https://github.com/GodXuxilie/Efficient_ACL_via_RCS">Code</a>] [<a href="https://nips.cc/media/PosterPDFs/NeurIPS%202023/70886.png?t=1701436495.3604662">Poster</a>] [<a href="https://zhuanlan.zhihu.com/p/669541942">知乎 (Chinese Quora)</a>] [<b style="color:red;"><i>Spotlight, top 3.06%</i></b>]
 </li>
 <li><span id="NIPS23b">Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization.</span> <br/>
 <b>Xilie Xu</b><sup>*</sup>, Jingfeng Zhang<sup>*</sup>, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br> 
