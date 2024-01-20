@@ -49,4 +49,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 <li>
 [Dec 2022]: I successfully passed the PhD Qualification Examination!
 </li>
+<li>
+[ 2022]: I successfully passed the PhD Qualification Examination!
+</li>
 </ul>
