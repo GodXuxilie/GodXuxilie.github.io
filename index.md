@@ -50,6 +50,6 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 [Dec 2022]: I successfully passed the PhD Qualification Examination!
 </li>
 <li>
-[ 2022]: I successfully passed the PhD Qualification Examination!
+[May 2022]: One paper regarding robustness of two-sample tests was accepted by ICML'22!
 </li>
 </ul>
