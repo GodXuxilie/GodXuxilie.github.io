@@ -14,6 +14,9 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
+[Feb 2024]: Our <a href="https://d2jud02ci9yv69.cloudfront.net/2024-05-07-robust-foundation-model-60/blog/robust-foundation-model/">blog titled as ''<i>Towards Robust Foundation Models: Adversarial Contrastive Learning</i>''</a> was published at ICLR Blogposts 2024!
+</li>
+<li>
 [Jan 2024]: Two papers---both <a href="https://arxiv.org/abs/2310.01818">AutoLoRa</a> and <a href="https://godxuxilie.github.io/project_page/prompt_attack">PromptAttack</a>, were accepted by ICLR'24! Congratulations to Keyi!
 </li>
 <li>

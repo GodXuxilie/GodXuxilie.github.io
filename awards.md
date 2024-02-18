@@ -10,9 +10,11 @@ title: Service
 - Member of the executive group of [TrustML Young Scientist Seminars](https://trustmlresearch.github.io/index.html) sponsored by [RIEKN-AIP](https://www.riken.jp/en/research/labs/aip/).
 
 
-## Award
+## Award & Grant
+- Postgrauate Travel Grant, SoC, NUS, 2023.
 - NeurIPS 2023 Scholar Award, NeurIPS, October 2023.
 - Research Incentive Award, SoC, NUS, October 2023.
+- Postgrauate Travel Grant, SoC, NUS, 2022.
 - Research Achievement Award, SoC, NUS, 2022.
 - ICML 2022 Participation Grant, ICML, July 2022.
 - [Outstanding Reviewer Award](https://nips.cc/Conferences/2021/ProgramCommittee), NeurIPS, 2021.
