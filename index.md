@@ -29,7 +29,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 [Dec 2023]: I will attend NeurIPS 2023 conference at New Orleans, US. See you there! Welcome to check our <a href="https://nips.cc/virtual/2023/poster/70886">Spotlight Poster</a> and <a href="https://nips.cc/virtual/2023/poster/69867">Poster</a>!
 </li>
 <li>
-[Dec 2023]: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on <a href="https://zhuanlan.zhihu.com/p/669541942">知乎 (Chinese Quora)</a>! 欢迎大家关注点赞👍！An English version of the tutorial will come soon!
+[Dec 2023]: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on <a href="https://zhuanlan.zhihu.com/p/669541942">知乎 (Chinese Quora)</a>! 欢迎大家关注点赞👍！An English version of the tutorial is <a href="https://d2jud02ci9yv69.cloudfront.net/2024-05-07-robust-foundation-model-60/blog/robust-foundation-model/">here</a>!
 </li>
 <li>
 [Nov 2023]: I gave a talk titled as "Towards Building Robust Foundation Models" at <a href="https://ncript.comp.nus.edu.sg/">N-CRiPT</a> Seminar, NUS. 
