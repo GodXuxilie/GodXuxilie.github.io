@@ -9,19 +9,24 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing and fine-tuning adversarially robust foundation models**: [[ICLR'24a]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
+**(1) Towards developing and fine-tuning trustworthy foundation models**: [[Preprint'24]](#PrivateLoRA) [[ICLR'24 Blogpost]](#ICLR24_blogpost) [[ICLR'24a]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICLR'24b]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
-## Preprint&Workshop Paper
+## Preprint & Workshop Paper & Blogposts
 (\* refers to equal contributions) 
 <ol reversed>
 <li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
 Zihao Luo<sup>*</sup>,, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
 ArXiv preprint, 2024.
 <br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]</li>
+<li><span id="ICLR24_blogpost">Towards Robust Foundation Models: Adversarial Contrastive Learning.</span><br/> 
+<b>Jingfeng Zhang, Xilie Xu. <br> 
+<a href="https://openreview.net/group?id=ICLR.cc/2024/BlogPosts#tab-accept"><i>The Third Blogpost Track at ICLR 2024</i></a> <i>(BT@ICLR 2024)</i>, Vienna, Austria, 2024.
+<br/> [<a href="https://d2jud02ci9yv69.cloudfront.net/2024-05-07-robust-foundation-model-60/blog/robust-foundation-model/">Blogpost</a>]
+</li>
 <li><span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> <br/> 
 <b>Xilie Xu</b>, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>AAAI Workshop on Responsible Language Models</i></a>, Vancouver, Canada, 2024.
