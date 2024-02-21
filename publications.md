@@ -16,8 +16,12 @@ Overall, my research works lie in the following three categories: <br/>
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
 ## Preprint&Workshop Paper
-
+(\* refers to equal contributions) 
 <ol reversed>
+<li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
+Zihao Luo<sup>*</sup>,, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
+ArXiv preprint, 2024.
+<br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]</li>
 <li><span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> <br/> 
 <b>Xilie Xu</b>, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/home"><i>AAAI Workshop on Responsible Language Models</i></a>, Vancouver, Canada, 2024.
@@ -25,7 +29,6 @@ Overall, my research works lie in the following three categories: <br/>
 </ol>
 
 ## Publication
-(\* refers to equal contributions) 
 <ol reversed>
 <li><span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span><br/> 
 <b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
