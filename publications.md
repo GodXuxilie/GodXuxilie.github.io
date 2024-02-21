@@ -24,7 +24,7 @@ ArXiv preprint, 2024.
 <br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]
 </li>
 <li><span id="ICLR24_blogpost">Towards Robust Foundation Models: Adversarial Contrastive Learning.</span><br/> 
-<b>Jingfeng Zhang, Xilie Xu. <br> 
+Jingfeng Zhang, <b>Xilie Xu</b>. <br> 
 <a href="https://openreview.net/group?id=ICLR.cc/2024/BlogPosts#tab-accept"><i>The Third Blogpost Track at ICLR 2024</i></a> <i>(BT@ICLR 2024)</i>, Vienna, Austria, 2024.
 <br/> [<a href="https://d2jud02ci9yv69.cloudfront.net/2024-05-07-robust-foundation-model-60/blog/robust-foundation-model/">Blogpost</a>]
 </li>
