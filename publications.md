@@ -19,9 +19,10 @@ Overall, my research works lie in the following three categories: <br/>
 (\* refers to equal contributions) 
 <ol reversed>
 <li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
-Zihao Luo<sup>*</sup>,, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
+Zihao Luo<sup>*</sup>, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
 ArXiv preprint, 2024.
-<br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]</li>
+<br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]
+</li>
 <li><span id="ICLR24_blogpost">Towards Robust Foundation Models: Adversarial Contrastive Learning.</span><br/> 
 <b>Jingfeng Zhang, Xilie Xu. <br> 
 <a href="https://openreview.net/group?id=ICLR.cc/2024/BlogPosts#tab-accept"><i>The Third Blogpost Track at ICLR 2024</i></a> <i>(BT@ICLR 2024)</i>, Vienna, Austria, 2024.
