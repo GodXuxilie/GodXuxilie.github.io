@@ -26,7 +26,7 @@ ArXiv preprint, 2024.
 <li><span id="ICLR24_blogpost">Towards Robust Foundation Models: Adversarial Contrastive Learning.</span><br/> 
 Jingfeng Zhang, <b>Xilie Xu</b>. <br> 
 <a href="https://openreview.net/group?id=ICLR.cc/2024/BlogPosts#tab-accept"><i>The Third Blogpost Track at ICLR 2024</i></a> <i>(BT@ICLR 2024)</i>, Vienna, Austria, 2024.
-<br/> [<a href="https://d2jud02ci9yv69.cloudfront.net/2024-05-07-robust-foundation-model-60/blog/robust-foundation-model/">Blogpost</a>]
+<br/> [<a href="https://iclr-blogposts.github.io/2024/blog/robust-foundation-model/">Blogpost</a>]
 </li>
 <li><span id="AAAI24_ReLM">AdvGLUE-GPT: Towards Effective and Efficient Robustness Evaluation of Large Language Models.</span> <br/> 
 <b>Xilie Xu</b>, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 

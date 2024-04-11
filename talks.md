@@ -5,7 +5,7 @@ title: Talk
 ---
 
 ## Invited Talk
-- An LLM can Fool Itself: A Prompt-Based Adversarial Attack. <br/> 25 Mar 2023, *[N-CRiPT]((https://ncript.comp.nus.edu.sg/)) Seminar*, NUS, Singapore. <br/> [[Slides]]()
+- An LLM can Fool Itself: A Prompt-Based Adversarial Attack. <br/> 25 Mar 2023, *[N-CRiPT]((https://ncript.comp.nus.edu.sg/)) Seminar*, NUS, Singapore. <br/> [[Slides]](/file/talk/ncript_seminar_25_Mar_PromptAttack.pdf)
 
 - Towards Building Robust Foundation Models. <br/> 28 November 2023, *[N-CRiPT]((https://ncript.comp.nus.edu.sg/)) Seminar*, NUS, Singapore. <br/> [[Slides]](/file/talk/N-CRiPT_seminar_Xilie_Xu.pdf)
 

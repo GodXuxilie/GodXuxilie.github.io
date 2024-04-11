@@ -14,7 +14,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
-[Feb 2024]: Our <a href="https://d2jud02ci9yv69.cloudfront.net/2024-05-07-robust-foundation-model-60/blog/robust-foundation-model/">blog titled as ''<i>Towards Robust Foundation Models: Adversarial Contrastive Learning</i>''</a> was published at <a href="https://openreview.net/forum?id=DsRvphYxh8">ICLR Blogposts 2024'</a>!
+[Feb 2024]: Our <a href="https://iclr-blogposts.github.io/2024/blog/robust-foundation-model/">blog titled as ''<i>Towards Robust Foundation Models: Adversarial Contrastive Learning</i>''</a> was published at <a href="https://openreview.net/forum?id=DsRvphYxh8">ICLR Blogposts 2024'</a>!
 </li>
 <li>
 [Jan 2024]: Two papers---both <a href="https://arxiv.org/abs/2310.01818">AutoLoRa</a> and <a href="https://godxuxilie.github.io/project_page/prompt_attack">PromptAttack</a>, were accepted by ICLR'24! Congratulations to Keyi!
@@ -29,7 +29,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 [Dec 2023]: I will attend NeurIPS 2023 conference at New Orleans, US. See you there! Welcome to check our <a href="https://nips.cc/virtual/2023/poster/70886">Spotlight Poster</a> and <a href="https://nips.cc/virtual/2023/poster/69867">Poster</a>!
 </li>
 <li>
-[Dec 2023]: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on <a href="https://zhuanlan.zhihu.com/p/669541942">知乎 (Chinese Quora)</a>! 欢迎大家关注点赞👍！An English version of the tutorial is <a href="https://d2jud02ci9yv69.cloudfront.net/2024-05-07-robust-foundation-model-60/blog/robust-foundation-model/">here</a>!
+[Dec 2023]: I posted a tutorial to our NeruIPS'23 works regarding adversarial contrastive learning on <a href="https://zhuanlan.zhihu.com/p/669541942">知乎 (Chinese Quora)</a>! 欢迎大家关注点赞👍！An English version of the tutorial is <a href="https://iclr-blogposts.github.io/2024/blog/robust-foundation-model/">here</a>!
 </li>
 <li>
 [Nov 2023]: I gave a talk titled as "Towards Building Robust Foundation Models" at <a href="https://ncript.comp.nus.edu.sg/">N-CRiPT</a> Seminar, NUS. 
