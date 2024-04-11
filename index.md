@@ -14,6 +14,12 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
+[Apr 2024]: I gwill give a talk titled as "Towards Effective and Efficient Evaluation of Large Language Model's Adversarial Robustness" at N-CRiPT Technical Workshop, NUS.
+</li>
+<li>
+[Mar 2024]: I gave a talk titled as "An LLM can Fool Itself: A Prompt-Based Adversarial Attack" at <a href="https://ncript.comp.nus.edu.sg/">N-CRiPT</a> Seminar, NUS.
+</li>
+<li>
 [Feb 2024]: Our <a href="https://iclr-blogposts.github.io/2024/blog/robust-foundation-model/">blog titled as ''<i>Towards Robust Foundation Models: Adversarial Contrastive Learning</i>''</a> was published at <a href="https://openreview.net/forum?id=DsRvphYxh8">ICLR Blogposts 2024'</a>!
 </li>
 <li>
