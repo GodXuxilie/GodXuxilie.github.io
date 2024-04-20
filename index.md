@@ -14,7 +14,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
-[Apr 2024]: I will give a talk titled as "Towards Effective and Efficient Evaluation of Large Language Model's Adversarial Robustness" at N-CRiPT Technical Workshop, NUS.
+[Apr 2024]: I gave a talk titled as "Towards Effective and Efficient Evaluation of Large Language Model's Adversarial Robustness" at N-CRiPT Technical Workshop, NUS.
 </li>
 <li>
 [Mar 2024]: I gave a talk titled as "An LLM can Fool Itself: A Prompt-Based Adversarial Attack" at <a href="https://ncript.comp.nus.edu.sg/">N-CRiPT</a> Seminar, NUS.
