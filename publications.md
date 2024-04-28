@@ -39,12 +39,12 @@ Jingfeng Zhang, <b>Xilie Xu</b>. <br>
 <li><span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span><br/> 
 <b>Xilie Xu</b><sup>*</sup>, Keyi Kong<sup>*</sup>, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://iclr.cc/Conferences/2024"><i>The 12th International Conference on Learning Representations</i></a> <i>(ICLR 2024)</i>, Vienna, Austria, 2024.
-<br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>][<a href="https://godxuxilie.github.io/project_page/prompt_attack">Project Page</a>]
+<br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>] [<a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/18503.png?t=1712917706.7582233">Poster</a>] [<a href="https://godxuxilie.github.io/project_page/prompt_attack">Project Page</a>]
 </li>
 <li><span id="autoRFT">AutoLoRa: A Parameter-Free Automated Robust Fine-Tuning Framework.</span><br/>
 <b>Xilie Xu</b>, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://iclr.cc/Conferences/2024"><i>The 12th International Conference on Learning Representations</i></a> <i>(ICLR 2024)</i>, Vienna, Austria, 2024.
-<br/> [<a href="https://arxiv.org/abs/2310.01818">PDF</a>] [<a href="https://github.com/GodXuxilie/RobustSSL_Benchmark">Code</a>]
+<br/> [<a href="https://arxiv.org/abs/2310.01818">PDF</a>] [<a href="https://github.com/GodXuxilie/RobustSSL_Benchmark">Code</a>] [<a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/19622.png?t=1713170951.8301408">Poster</a>]
 </li>
 <li><span id="NIPS23a">Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection.</span> <br/> 
 <b>Xilie Xu</b><sup>*</sup>, Jingfeng Zhang<sup>*</sup>, Feng Liu, Masashi Sugiyama, Mohan Kankanhalli. <br> 

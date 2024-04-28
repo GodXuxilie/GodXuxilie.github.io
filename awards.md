@@ -11,6 +11,7 @@ title: Service
 
 
 ## Award & Grant
+- Postgrauate Travel Grant, SoC, NUS, 2024.
 - Postgrauate Travel Grant, SoC, NUS, 2023.
 - NeurIPS 2023 Scholar Award, NeurIPS, October 2023.
 - Research Incentive Award, SoC, NUS, October 2023.
