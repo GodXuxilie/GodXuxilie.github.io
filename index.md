@@ -14,7 +14,7 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
-[Jun 2024]: Our team <b>NUSafe<\b> won the championship of <a href="https://icml-tifa.github.io/challenges/track1/">the ICML'24 TiFA Challenge</a>! 
+[Jun 2024]: Our team <b>NUSafe<\b> won the championship of <a href="https://icml-tifa.github.io/challenges/track1/">the ICML 2024 TiFA Workshop MLLM Attack Challenge</a>! 
 </li>
 <li>
 [Jun 2024]: I started the quantitative research internship at <a href="https://baiont.ai/index.html">Baiont Quant</a>!
