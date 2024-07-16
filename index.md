@@ -14,6 +14,9 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
+[Jun 2024]: I started the quantitative research internship at <a href="https://baiont.ai/index.html">Baiont Quant</a>!
+</li>
+<li>
 [May 2024]: I will attend ICLR 2024 conference at Vienna, Austria. See you there! Welcome to check our posters <a href="https://iclr.cc/virtual/2024/poster/18503">PromptAttack</a> and <a href="https://iclr.cc/virtual/2024/poster/19622">AutoLoRa</a>!
 </li>
 <li>
