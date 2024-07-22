@@ -11,6 +11,7 @@ title: Service
 
 
 ## Award & Grant
+- Championship, [the ICML 2024 TiFA Workshop MLLM Attack Challenge](https://icml-tifa.github.io/challenges/track1/).
 - Postgrauate Travel Grant, SoC, NUS, 2024.
 - Postgrauate Travel Grant, SoC, NUS, 2023.
 - NeurIPS 2023 Scholar Award, NeurIPS, October 2023.
