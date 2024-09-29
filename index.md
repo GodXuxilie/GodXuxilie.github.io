@@ -14,6 +14,9 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
+[Sep 2024]: One papers regarding robust alignment was accepted by NeurIPS'24! Congratulations to Keyi!
+</li>
+<li>
 [Jul 2024]: Our team <b>NUSafe</b> won the championship of <a href="https://icml-tifa.github.io/challenges/track1/">the ICML 2024 TiFA Workshop MLLM Attack Challenge</a>! 
 </li>
 <li>
