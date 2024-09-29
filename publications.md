@@ -15,7 +15,7 @@ Overall, my research works lie in the following three categories: <br/>
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
-## Preprint & Workshop Paper & Blogposts
+## Preprint & Workshop Paper & Blogpost
 (\* refers to equal contributions) 
 <ol reversed>
 <li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
