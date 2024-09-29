@@ -9,7 +9,7 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing and fine-tuning trustworthy foundation models**: [[NeurIPS'24]](#robust_alignment), [[Preprint'24]](#PrivateLoRA) [[ICLR'24 Blogpost]](#ICLR24_blogpost) [[ICLR'24a]](#autoRFT) [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
+**(1) Towards developing and fine-tuning trustworthy foundation models**: [[NeurIPS'24]](#robust_alignment), [[Preprint'24]](#PrivateLoRA), [[ICLR'24 Blogpost]](#ICLR24_blogpost), [[ICLR'24a]](#autoRFT), [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICLR'24b]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
@@ -37,7 +37,7 @@ Jingfeng Zhang, <b>Xilie Xu</b>. <br>
 ## Publication
 <ol reversed>
 <li><span id="robust_alignment">Perplexity-aware Correction for Robust Alignment with Noisy Preferences.</span><br/> 
-<b>Keyi Kong<sup>*</sup>, Xilie Xu</b><sup>*</sup>, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
+Keyi Kong<sup>*</sup>, <b>Xilie Xu</b><sup>*</sup>, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://iclr.cc/Conferences/2024"><i>The 38th Annual Conference on Neural Information Processing Systems</i></a> <i>(NeurIPS 2024)</i> Vancouver, Canada, 2024.
 <!-- <br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>] [<a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/18503.png?t=1712917706.7582233">Poster</a>] [<a href="https://godxuxilie.github.io/project_page/prompt_attack">Project Page</a>] -->
 </li>
