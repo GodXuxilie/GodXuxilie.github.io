@@ -38,7 +38,7 @@ Jingfeng Zhang, <b>Xilie Xu</b>. <br>
 <ol reversed>
 <li><span id="robust_alignment">Perplexity-aware Correction for Robust Alignment with Noisy Preferences.</span><br/> 
 Keyi Kong<sup>*</sup>, <b>Xilie Xu</b><sup>*</sup>, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
-<a href="https://neurips.cc/Conferences/2024"><i>The 38th Annual Conference on Neural Information Processing Systems</i></a> <i>(NeurIPS 2024)</i> Vancouver, Canada, 2024.
+<a href="https://neurips.cc/Conferences/2024"><i>The 38th Annual Conference on Neural Information Processing Systems</i></a> <i>(NeurIPS 2024)</i>, Vancouver, Canada, 2024.
 <!-- <br/> [<a href="https://arxiv.org/abs/2310.13345">PDF</a>] [<a href="https://github.com/GodXuxilie/PromptAttack">Code</a>] [<a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/18503.png?t=1712917706.7582233">Poster</a>] [<a href="https://godxuxilie.github.io/project_page/prompt_attack">Project Page</a>] -->
 </li>
 <li><span id="promptattack">An LLM can Fool Itself: A Prompt-Based Adversarial Attack.</span><br/> 
