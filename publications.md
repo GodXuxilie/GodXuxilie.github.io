@@ -15,12 +15,12 @@ Overall, my research works lie in the following three categories: <br/>
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
-## Preprint & Workshop Paper & Blogpost & Challenges
+## Preprint & Workshop Paper & Blogpost & Challenge
 (\* refers to equal contributions) 
 <ol reversed>
 <li><span id="TiFA">Technical Report for ICML 2024 TiFA Workshop MLLM Attack Challenge: Suffix Injection and Projected Gradient Descent Can Easily Fool An MLLM.</span> <br/> 
 Yangyang Guo, Ziwei Xu, <b>Xilie Xu</b>, Yongkang Wong, Liqiang Nie, Mohan Kankanhalli.<br> 
-ICML 2024 Workshop TiFA Attack Challenge.
+ICML 2024 TiFA Workshop MLLM Attack Challenge, Vienna, Austria, 2024.
 <br/> [<a href="https://godxuxilie.github.io/file/ICML-TiFA-Certificate.jpg">Championship Certification</a>]
 </li>
 <li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
