@@ -19,7 +19,7 @@ Overall, my research works lie in the following three categories: <br/>
 (\* refers to equal contributions) 
 <ol reversed>
 <li><span id="TiFA">Technical Report for ICML 2024 TiFA Workshop MLLM Attack Challenge: Suffix Injection and Projected Gradient Descent Can Easily Fool An MLLM.</span> <br/> 
-Yangyang Guo, Ziwei Xu, <b>Xilie Xu</b>, Yongkang Wong, Liqiang Nie, Mohan Kankanhalli<br> 
+Yangyang Guo, Ziwei Xu, <b>Xilie Xu</b>, Yongkang Wong, Liqiang Nie, Mohan Kankanhalli.<br> 
 ICML 2024 Workshop TiFA Attack Challenge.
 <br/> [<a href="https://godxuxilie.github.io/file/ICML-TiFA-Certificate.jpg">Championship Certification</a>]
 </li>
