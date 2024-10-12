@@ -10,14 +10,19 @@ title: Research
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
 **(1) Towards developing and fine-tuning trustworthy foundation models**: [[NeurIPS'24]](#robust_alignment), [[Preprint'24]](#PrivateLoRA), [[ICLR'24 Blogpost]](#ICLR24_blogpost), [[ICLR'24a]](#autoRFT), [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
-**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICLR'24b]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
+**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICML'24 TiFA MLLM Attack Challenge Chanpionship]](#TiFA), [[ICLR'24b]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
 
-## Preprint & Workshop Paper & Blogpost
+## Preprint & Workshop Paper & Blogpost & Challenges
 (\* refers to equal contributions) 
 <ol reversed>
+<li><span id="TiFA">Technical Report for ICML 2024 TiFA Workshop MLLM Attack Challenge: Suffix Injection and Projected Gradient Descent Can Easily Fool An MLLM.</span> <br/> 
+Yangyang Guo, Ziwei Xu, <b>Xilie Xu</b>, Yongkang Wong, Liqiang Nie, Mohan Kankanhalli<br> 
+ICML 2024 Workshop TiFA Attack Challenge.
+<br/> [PDF] [[Championship Certification]](./file/ICML-TiFA-Certificate.jpg)
+</li>
 <li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
 Zihao Luo<sup>*</sup>, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
 ArXiv preprint, 2024.
