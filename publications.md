@@ -38,7 +38,7 @@ Jingfeng Zhang, <b>Xilie Xu</b>. <br>
 <ol reversed>
 <li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
 Zihao Luo<sup>*</sup>, <b>Xilie Xu</b><sup>*</sup>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
-<a href="https://aaai.org/conference/aaai/aaai-25/"><i>The 39th AAAI Conference on Artificial Intelligence</i></a> <i>(AAAI 2025)</i>, Philadelphia, USA, 2025.
+<a href="https://aaai.org/conference/aaai/aaai-25/"><i>The 39th AAAI Conference on Artificial Intelligence</i></a> <i>(AAAI 2025)</i>, Philadelphia, US, 2025.
 <br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]
 </li>
 <li><span id="robust_alignment">Perplexity-aware Correction for Robust Alignment with Noisy Preferences.</span><br/> 
