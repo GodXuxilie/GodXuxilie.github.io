@@ -9,7 +9,7 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing and fine-tuning trustworthy foundation models**: [[NeurIPS'24]](#robust_alignment), [[Preprint'24]](#PrivateLoRA), [[ICLR'24 Blogpost]](#ICLR24_blogpost), [[ICLR'24a]](#autoRFT), [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
+**(1) Towards developing and fine-tuning trustworthy foundation models**: [[AAAI'25]](#PrivateLoRA), [[NeurIPS'24]](#robust_alignment), [[ICLR'24 Blogpost]](#ICLR24_blogpost), [[ICLR'24a]](#autoRFT), [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
 **(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICML'24 Challenge Chanpionship]](#TiFA), [[ICLR'24b]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
@@ -37,7 +37,7 @@ Jingfeng Zhang, <b>Xilie Xu</b>. <br>
 ## Publication
 <ol reversed>
 <li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
-Zihao Luo<sup>*</sup>, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
+Zihao Luo<sup>*</sup>, <b>Xilie Xu</b><sup>*</sup>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
 <a href="https://aaai.org/conference/aaai/aaai-25/"><i>the Thirty-Ninth AAAI Conference on Artificial Intelligence</i></a> <i>(AAAI 2024)</i>, Philadelphia, USA, 2025.
 <br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]
 </li>
