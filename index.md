@@ -14,6 +14,9 @@ I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing]
 ## News
 <ul>
 <li>
+[Dec 2024]: One paper regarding private-preserving low-rank adaptation was accepted by AAAI'25! Congratulations to Zihao!
+</li>
+<li>
 [Sep 2024]: One paper regarding robust alignment was accepted by NeurIPS'24! Congratulations to Keyi!
 </li>
 <li>
