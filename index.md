@@ -6,7 +6,7 @@ layout: page
 <!-- <img src="/images/me3.jpg" class='floatpic'> -->
 <img src="/images/me3.jpg" style="float:right; margin-left:1em; margin-right:2em; margin-bottom:1em; width:30%; height: 60%;">
 Here is **Xilie Xu (徐曦烈)**. <br/>
-I am a third-year (Aug. 2021-present) Ph.D. student at [the School of Computing](https://www.comp.nus.edu.sg/) of [the National University of Singapore](https://www.nus.edu.sg/) fortunately advised by [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). Before that, I received my bachelor’s degree in Computer Science from [Taishan College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
+I am a 4th-year (Aug. 2021-present) Ph.D. student at [the School of Computing](https://www.comp.nus.edu.sg/) of [the National University of Singapore](https://www.nus.edu.sg/) fortunately advised by [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). Before that, I received my bachelor’s degree in Computer Science from [Taishan College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
 <!-- <br/> -->
 <!-- *I am actively looking for a <u>research intern</u> position in 2024 Summer/Fall. Please feel free to drop me an email (xuxilie@comp.nus.edu.sg) if there is an interest!*​​​​ -->
