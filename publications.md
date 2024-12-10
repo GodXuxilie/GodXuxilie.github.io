@@ -23,11 +23,6 @@ Yangyang Guo, Ziwei Xu, <b>Xilie Xu</b>, Yongkang Wong, Liqiang Nie, Mohan Kanka
 ICML 2024 TiFA Workshop MLLM Attack Challenge, Vienna, Austria, 2024.
 <br/> [<a href="https://godxuxilie.github.io/file/ICML-TiFA-Certificate.jpg">Championship Certification</a>]
 </li>
-<li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
-Zihao Luo<sup>*</sup>, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
-ArXiv preprint, 2024.
-<br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]
-</li>
 <li><span id="ICLR24_blogpost">Towards Robust Foundation Models: Adversarial Contrastive Learning.</span><br/> 
 Jingfeng Zhang, <b>Xilie Xu</b>. <br> 
 <a href="https://openreview.net/group?id=ICLR.cc/2024/BlogPosts#tab-accept"><i>The Third Blogpost Track at ICLR 2024</i></a> <i>(BT@ICLR 2024)</i>, Vienna, Austria, 2024.
@@ -41,6 +36,11 @@ Jingfeng Zhang, <b>Xilie Xu</b>. <br>
 
 ## Publication
 <ol reversed>
+<li><span id="PrivateLoRA">Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models.</span> <br/> 
+Zihao Luo<sup>*</sup>, <b>Xilie Xu<sup>*</sup></b>, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang. <br> 
+<a href="https://aaai.org/conference/aaai/aaai-25/"><i>the Thirty-Ninth AAAI Conference on Artificial Intelligence</i></a> <i>(AAAI 2024)</i>, Philadelphia, USA, 2025.
+<br/> [<a href="https://arxiv.org/abs/2402.11989">PDF</a>] [<a href="https://github.com/WilliamLUO0/StablePrivateLoRA">Code</a>]
+</li>
 <li><span id="robust_alignment">Perplexity-aware Correction for Robust Alignment with Noisy Preferences.</span><br/> 
 Keyi Kong<sup>*</sup>, <b>Xilie Xu</b><sup>*</sup>, Di Wang, Jingfeng Zhang, Mohan Kankanhalli. <br> 
 <a href="https://neurips.cc/Conferences/2024"><i>The 38th Annual Conference on Neural Information Processing Systems</i></a> <i>(NeurIPS 2024)</i>, Vancouver, Canada, 2024.
