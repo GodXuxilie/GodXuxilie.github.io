@@ -9,8 +9,8 @@ title: Research
 ## Research Statement
 I have a strong interest in both the theories and practical applications of **trustworthy machine learning**, with a particular focus on **adversarial robustness**. 
 Overall, my research works lie in the following three categories: <br/>
-**(1) Towards developing and fine-tuning trustworthy foundation models**: [[AAAI'25]](#PrivateLoRA), [[NeurIPS'24]](#robust_alignment), [[ICLR'24 Blogpost]](#ICLR24_blogpost), [[ICLR'24a]](#autoRFT), [[NeurIPS'23a, *Spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
-**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICML'24 Challenge Chanpionship]](#TiFA), [[ICLR'24b]](#promptattack), [[AAAI'24 Workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
+**(1) Towards developing and fine-tuning trustworthy foundation models**: [[AAAI'25, *best paper* at CoLoRAI]](#PrivateLoRA), [[NeurIPS'24]](#robust_alignment), [[ICLR'24 Blogpost]](#ICLR24_blogpost), [[ICLR'24a]](#autoRFT), [[NeurIPS'23a, *spotlight*]](#NIPS23a), [[NeurIPS'23b]](#NIPS23b). <br/>
+**(2) Towards evaluating and enhancing adversarial robustness of AI-powered applications (e.g., statistical tools, LLMs, diffusion models)**: [[ICML'24 challenge chanpionship]](#TiFA), [[ICLR'24b]](#promptattack), [[AAAI'24 workshop]](#AAAI24_ReLM), [[ICML'22]](#ICML22). <br/>
 **(3) Towards enhancing supervised adversarial training**: [[TMLR'22]](#TMLR22), [[TDSC'22]](#TDSC22), [[ICML'20]](#ICML20).
 
 <!-- I'm always welcoming the possibility of collaborations. Please feel free to contact me via [email](xuxilie@comp.nus.edu.sg) if you have any appropriate opportunities you'd like to explore. -->
