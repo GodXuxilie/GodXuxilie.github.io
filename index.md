@@ -14,7 +14,7 @@ I am a 4th-year (Aug. 2021-present) Ph.D. student at [the School of Computing](h
 ## News
 <ul>
 <li>
-[Mar 2025]: The paper "Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models" recieved <b>best paper award</b> at <a href="https://april-tools.github.io/colorai/">CoLoRAI</a>!
+[Mar 2025]: The paper "Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models" recieved <a href="https://godxuxilie.github.io/file/best_paper_colorai.jpeg"><b>best paper award</b></a> at <a href="https://april-tools.github.io/colorai/">CoLoRAI</a>!
 </li>
 <li>
 [Dec 2024]: One paper regarding privacy-preserving low-rank adaptation was accepted by AAAI'25! Congratulations to Zihao!
