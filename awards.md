@@ -11,7 +11,7 @@ title: Service
 
 
 ## Award & Grant
-- Best paper award, AAAI 2025 [CoLoRAI](https://april-tools.github.io/colorai/) Workshop, US, 2025. [[Certification]](./file/best_paper_colorai.jpeg)
+- Best paper award, AAAI 2025 [CoLoRAI](https://april-tools.github.io/colorai/) Workshop, US, March 2025. [[Certification]](./file/best_paper_colorai.jpeg)
 - Championship, [the ICML 2024 TiFA Workshop MLLM Attack Challenge](https://icml-tifa.github.io/challenges/track1/). [[Certification]](./file/ICML-TiFA-Certificate.jpg)
 - Postgrauate Travel Grant, SoC, NUS, 2024.
 - Postgrauate Travel Grant, SoC, NUS, 2023.
