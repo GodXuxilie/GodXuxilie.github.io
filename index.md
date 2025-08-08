@@ -6,13 +6,19 @@ layout: page
 <!-- <img src="/images/me3.jpg" class='floatpic'> -->
 <img src="/images/me3.jpg" style="float:right; margin-left:1em; margin-right:2em; margin-bottom:1em; width:30%; height: 60%;">
 Here is **Xilie Xu (徐曦烈)**. <br/>
-I am a 4th-year (Aug. 2021-present) Ph.D. student at [the School of Computing](https://www.comp.nus.edu.sg/) of [the National University of Singapore](https://www.nus.edu.sg/) fortunately advised by [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). Before that, I received my bachelor’s degree in Computer Science from [Taishan College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
+I am a quantitative researcher at Baiont Quant. I recieved my PhD degree from [the School of Computing](https://www.comp.nus.edu.sg/) of [the National University of Singapore](https://www.nus.edu.sg/) fortunately advised by [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). Before that, I received my bachelor’s degree in Computer Science from [Taishan College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
 <!-- <br/> -->
 <!-- *I am actively looking for a <u>research intern</u> position in 2024 Summer/Fall. Please feel free to drop me an email (xuxilie@comp.nus.edu.sg) if there is an interest!*​​​​ -->
 
 ## News
 <ul>
+<li>
+[Aug 2025] I joined Baiont Quant as a quantitative researcher focusing on applying AI technologies to analysing financial data.
+</li>
+<li>
+[Jul 2025] I fortunately passed my thesis examination and have been conferred a Doctor of Philosophy degree.
+</li>
 <li>
 [Mar 2025]: The paper "Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models" recieved <a href="https://godxuxilie.github.io/file/best_paper_colorai.jpeg"><b>best paper award</b></a> at <a href="https://april-tools.github.io/colorai/">CoLoRAI</a>!
 </li>

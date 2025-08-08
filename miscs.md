@@ -6,7 +6,7 @@ title: Misc
 
 ## Internship
 - Quantitative research internship
-<br/> Baiont Quant (Nanjing, China), June 2024 - present.
+<br/> Baiont Quant (Nanjing, China), June 2024 - Dec 2024.
 
 - Research intern mentored by [Dr. Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu).
 <br/> Department of Ant Group-CRO Line-Security and Risk Management, Ant Group (Hangzhou, China), June 2021 - July 2021.
